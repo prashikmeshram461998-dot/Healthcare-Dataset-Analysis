@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Blood_Pressure,Cholesterol,BMI,Smoker,Diabetes,Disease_Risk,Heart_Rate,Exercise_Freq,Alcohol_Intake,Sleep_Hours,Physical_Activity,Medication,Family_History
+1,57,Male,114.5,Normal,27.9,Yes,No,Low,81.0,Daily,Moderate,8.2,Low,Yes,Yes
+2,47,Female,122.8,Normal,29.1,No,No,Medium,71.0,Weekly,Low,7.8,Medium,Yes,Yes
+3,59,Male,99.8,Normal,28.1,Yes,No,Low,90.0,Never,None,8.1,Low,Yes,No
+4,72,Female,105.4,Normal,33.4,No,Yes,High,73.0,Weekly,None,7.4,Medium,Yes,No
+5,46,Male,138.0,High,22.2,Yes,No,Low,58.0,Daily,Low,5.6,High,No,Yes
+6,46,Male,110.1,Very High,23.6,Yes,No,Medium,83.0,Daily,Low,9.2,Medium,No,No
+7,73,Male,104.3,High,23.1,No,No,Low,90.0,Rarely,High,7.2,Medium,No,No
+8,61,Male,128.0,Normal,31.2,No,No,Medium,71.0,Rarely,Low,5.6,High,No,Yes
+9,42,Female,137.8,Normal,31.5,Yes,Yes,Low,82.0,Weekly,Low,5.3,Medium,Yes,No
+10,58,Male,130.8,Very High,29.3,No,Yes,Low,76.0,Daily,Low,5.6,Medium,Yes,Yes
+11,43,Female,134.9,Normal,32.9,Yes,No,Low,71.0,Daily,None,5.2,Medium,Yes,Yes
+12,43,Male,108.6,Normal,21.1,Yes,No,Medium,83.0,Weekly,Low,8.0,Medium,No,Yes
+13,53,Male,98.7,High,35.3,No,No,Low,67.0,Weekly,Low,6.7,High,No,No
+14,21,Male,142.5,High,34.6,No,Yes,Medium,75.0,Rarely,Low,8.2,High,No,No
+15,24,Female,115.2,High,30.7,Yes,Yes,Low,78.0,Weekly,Low,8.8,Medium,No,No
+16,41,Male,116.2,Normal,35.9,No,No,High,77.0,Rarely,None,8.4,Medium,No,Yes
+17,34,Female,,Normal,18.7,Yes,No,High,67.0,Daily,Low,8.0,Low,Yes,Yes
+18,54,Female,128.3,Very High,24.4,No,No,Medium,96.0,Rarely,Low,7.4,High,No,No
+19,36,Female,126.8,Normal,23.3,No,No,Low,88.0,Weekly,Low,6.7,Medium,Yes,Yes
+20,28,Female,152.5,High,30.6,No,No,Low,85.0,Rarely,Low,,Medium,No,Yes
+21,71,Female,110.3,High,21.7,No,Yes,Low,89.0,Weekly,None,7.9,Low,Yes,No
+22,46,Female,133.9,High,30.8,No,Yes,Low,76.0,Rarely,None,5.6,High,No,No
+23,51,Female,120.9,Normal,33.9,No,No,Medium,71.0,Weekly,None,6.9,Low,Yes,Yes
+24,28,Female,124.0,Normal,30.5,Yes,No,Medium,64.0,Rarely,Low,5.9,Low,Yes,No
+25,41,Female,142.9,High,28.4,No,No,High,68.0,Daily,Low,8.8,Medium,No,Yes
+26,51,Male,127.6,Very High,22.1,No,No,Low,65.0,Weekly,Moderate,8.1,Medium,Yes,No
+27,32,Male,128.1,Very High,22.8,Yes,No,Medium,70.0,Daily,None,10.2,Medium,Yes,No
+28,55,Male,136.1,Normal,33.2,Yes,No,Low,78.0,Weekly,None,5.9,Medium,No,No
+29,40,Male,114.5,Normal,30.9,No,No,Medium,84.0,Weekly,Low,6.0,Medium,No,No
+30,45,Male,107.4,Very High,26.8,No,Yes,Low,84.0,Weekly,Low,7.1,Low,No,No
+31,40,Female,104.3,High,24.9,Yes,No,Low,63.0,Daily,Low,5.9,Low,No,Yes
+32,77,Female,90.5,Very High,16.9,Yes,No,Low,82.0,Weekly,Moderate,7.8,High,Yes,Yes
+33,49,Female,150.8,Normal,21.6,No,No,Medium,86.0,Rarely,Moderate,6.9,Low,Yes,No
+34,34,Female,103.5,High,36.6,No,No,High,72.0,Daily,None,6.3,Low,No,No
+35,62,Female,116.7,High,20.6,No,Yes,Low,87.0,Rarely,High,8.6,Medium,Yes,No
+36,31,Female,115.8,High,27.9,No,No,Low,84.0,Daily,None,4.2,Medium,No,No
+37,53,Female,124.6,Normal,32.0,Yes,Yes,Low,62.0,Rarely,Low,7.8,Medium,Yes,Yes
+38,20,Male,132.2,Normal,20.7,No,No,Medium,97.0,Weekly,Low,6.2,High,No,No
+39,30,Male,132.9,High,27.9,No,No,Low,68.0,Rarely,Low,8.2,High,No,Yes
+40,52,Male,111.3,Normal,31.7,No,No,Medium,85.0,Daily,None,8.6,Medium,No,Yes
+41,61,Male,117.5,Normal,27.1,Yes,No,High,84.0,Weekly,None,3.6,Medium,No,No
+42,52,Female,,Very High,41.3,No,No,High,63.0,Weekly,Low,6.7,Medium,No,No
+43,48,Female,116.3,Normal,18.7,No,No,Low,77.0,Rarely,None,7.1,Medium,No,No
+44,45,Female,144.1,Very High,32.3,No,No,High,84.0,Weekly,None,3.5,Low,No,No
+45,27,Male,127.4,Normal,26.1,No,Yes,Medium,63.0,Daily,Low,7.3,Medium,Yes,No
+46,39,Female,131.0,High,30.9,Yes,No,Low,76.0,Weekly,Low,6.2,Low,No,Yes
+47,43,Female,129.9,Very High,29.2,No,No,Medium,85.0,Rarely,Low,5.2,High,Yes,No
+48,65,Female,137.6,Normal,23.3,No,No,High,86.0,Weekly,None,6.0,Medium,Yes,Yes
+49,55,Male,122.7,Normal,28.1,No,No,Low,71.0,Weekly,Moderate,5.8,Low,No,Yes
+50,23,Female,100.5,Normal,17.7,No,No,Low,90.0,Rarely,None,6.1,Low,Yes,Yes
+51,54,Male,126.0,Normal,30.0,No,No,Low,88.0,Rarely,Moderate,7.3,High,No,Yes
+52,44,Male,110.2,High,28.5,No,Yes,Medium,77.0,Daily,Low,8.5,Medium,No,No
+53,39,Male,112.1,Very High,30.2,No,No,Low,68.0,Daily,Low,6.9,Medium,No,No
+54,59,Male,256.9,Normal,32.3,Yes,No,High,63.0,Rarely,Moderate,8.7,Medium,No,Yes
+55,65,Female,138.6,Normal,28.8,No,No,Medium,79.0,Daily,None,5.4,High,No,Yes
+56,63,Male,120.3,Normal,27.7,No,No,Medium,90.0,Never,None,7.2,Medium,Yes,Yes
+57,37,Male,124.6,High,22.6,No,No,Low,74.0,Weekly,Low,,Low,No,No
+58,45,Female,145.5,Normal,23.4,No,No,Medium,66.0,Weekly,None,4.6,Low,Yes,No
+59,54,Female,123.6,High,32.9,No,No,Low,83.0,Rarely,Low,4.6,Medium,Yes,No
+60,64,Male,159.0,High,34.2,No,Yes,Low,77.0,Weekly,None,8.9,High,No,No
+61,42,Female,128.5,High,83.2,No,No,Medium,80.0,Daily,Moderate,7.3,Low,Yes,No
+62,47,Male,93.6,Normal,27.2,No,No,Low,70.0,Daily,Low,6.1,Medium,Yes,No
+63,33,Male,131.3,High,,No,No,Medium,71.0,Rarely,None,5.3,Medium,No,Yes
+64,32,Male,125.7,Normal,,Yes,No,Low,70.0,Rarely,Moderate,6.9,High,Yes,No
+65,62,Male,139.3,Normal,30.3,Yes,No,Low,80.0,Daily,None,7.2,Medium,Yes,Yes
+66,70,Female,,Very High,36.7,No,No,Low,72.0,Rarely,None,7.2,Medium,Yes,Yes
+67,48,Male,117.9,High,22.6,Yes,Yes,High,81.0,Weekly,None,5.3,Low,No,No
+68,65,Female,101.6,Normal,25.1,Yes,No,Medium,69.0,Rarely,Low,,Low,No,No
+69,55,Female,116.9,Normal,28.2,No,No,Medium,80.0,Weekly,Low,6.1,Medium,No,No
+70,40,Female,107.2,Normal,30.2,No,No,Low,82.0,Rarely,Low,8.0,Medium,Yes,Yes
+71,55,Female,111.3,Normal,25.9,No,No,Low,78.0,Daily,None,5.4,Medium,No,No
+72,73,Male,128.8,Normal,22.6,No,No,High,84.0,Daily,High,7.1,High,No,Yes
+73,49,Female,145.0,Normal,31.4,No,No,Low,70.0,Rarely,Moderate,11.0,Medium,Yes,Yes
+74,73,Male,125.9,Normal,30.6,No,No,Low,82.0,Daily,None,5.3,Medium,No,Yes
+75,10,Female,102.1,High,22.4,Yes,Yes,Medium,77.0,Weekly,Moderate,5.9,Low,No,No
+76,62,Female,126.7,High,33.8,No,No,Low,67.0,Never,Low,6.9,Low,No,No
+77,51,Male,137.9,High,32.9,No,No,High,56.0,Daily,None,2.6,Medium,No,No
+78,45,Male,110.9,Normal,27.7,No,No,Medium,58.0,Weekly,None,4.9,Medium,Yes,Yes
+79,51,Male,118.0,Very High,27.4,No,No,Low,53.0,Rarely,None,7.5,Medium,No,Yes
+80,20,Female,120.2,Very High,29.8,No,No,Low,79.0,Rarely,Moderate,6.7,High,No,Yes
+81,46,Female,108.2,Very High,22.7,Yes,No,Low,72.0,Daily,Low,8.6,Medium,No,No
+82,55,Male,129.7,Very High,27.2,No,No,High,76.0,Daily,None,6.6,Medium,No,No
+83,72,Male,,Very High,,No,No,Medium,73.0,Daily,None,6.5,High,No,No
+84,42,Male,126.3,High,31.4,No,No,Low,81.0,Rarely,Low,5.9,Medium,No,No
+85,37,Male,106.7,Normal,19.2,Yes,No,Low,81.0,Daily,Low,6.5,Low,No,Yes
+86,42,Female,113.4,High,34.5,No,No,Medium,75.0,Rarely,Moderate,5.2,Low,No,Yes
+87,63,Male,130.8,High,25.3,No,No,Medium,76.0,Daily,High,6.8,Medium,Yes,No
+88,54,Male,114.4,High,25.9,Yes,No,Low,76.0,Never,Low,,High,No,No
+89,42,Male,145.9,High,23.9,No,Yes,Low,89.0,Weekly,Low,5.2,Low,No,No
+90,57,Male,114.0,Normal,25.6,No,No,Low,55.0,Weekly,None,6.0,Medium,Yes,No
+91,51,Female,123.4,Normal,34.1,No,No,Medium,68.0,Daily,Moderate,7.7,Medium,Yes,No
+92,64,Male,134.0,Very High,14.6,No,No,High,84.0,Daily,None,7.2,High,Yes,Yes
+93,39,Female,98.7,High,33.4,No,No,Low,86.0,Weekly,None,8.0,Medium,Yes,Yes
+94,45,Male,93.6,High,28.7,No,No,Medium,79.0,Weekly,Moderate,5.6,High,Yes,No
+95,44,Male,97.1,Normal,,No,Yes,Low,73.0,Daily,None,7.0,Medium,Yes,No
+96,28,Female,138.9,Normal,21.6,Yes,No,Low,94.0,Never,None,9.6,Low,No,Yes
+97,54,Male,111.7,Very High,35.4,No,No,Low,77.0,Daily,Low,9.1,Low,Yes,Yes
+98,53,Female,158.4,High,,Yes,No,High,75.0,Daily,None,5.1,Medium,Yes,No
+99,50,Female,111.5,High,21.2,Yes,Yes,Low,,Never,None,5.5,Medium,No,No
+100,46,Male,122.8,Normal,32.7,No,No,Medium,80.0,Never,Low,9.5,High,Yes,Yes
+101,28,Female,143.1,High,28.7,No,No,Low,84.0,Weekly,Low,7.7,Low,No,No
+102,43,Female,150.1,Normal,22.3,No,No,Low,,Never,None,6.7,Medium,No,Yes
+103,44,Female,150.9,High,28.1,No,No,Low,71.0,Weekly,High,6.5,Low,Yes,No
+104,37,Female,138.1,Normal,21.9,No,No,Medium,93.0,Daily,None,7.3,Medium,Yes,Yes
+105,47,Female,135.4,Normal,32.5,Yes,No,Low,50.0,Weekly,Moderate,7.4,High,Yes,No
+106,56,Female,128.9,High,32.3,No,No,Medium,55.0,Rarely,None,6.2,Low,Yes,No
+107,78,Female,131.7,Very High,29.7,No,Yes,Low,68.0,Weekly,Low,6.8,Medium,Yes,Yes
+108,52,Female,111.7,Normal,,No,No,Low,71.0,Weekly,None,6.1,Low,Yes,No
+109,53,Male,107.7,Very High,35.8,No,No,Low,79.0,Daily,None,7.3,Medium,Yes,Yes
+110,48,Male,119.9,Normal,27.0,No,Yes,Low,68.0,Rarely,None,5.9,Low,No,No
+111,21,Female,117.4,Normal,21.1,No,No,Low,75.0,Weekly,Low,5.1,Medium,Yes,No
+112,49,Male,113.2,Normal,29.2,Yes,No,Low,73.0,Daily,Low,9.2,Medium,No,Yes
+113,50,Female,130.4,Normal,37.4,No,No,Medium,95.0,Weekly,None,6.9,Medium,Yes,Yes
+114,86,Female,134.3,High,21.9,No,No,Medium,67.0,Weekly,High,9.5,Low,No,No
+115,47,Male,121.3,Normal,25.2,No,No,Low,58.0,Rarely,None,,Medium,Yes,Yes
+116,54,Female,142.2,Normal,29.1,Yes,No,Low,86.0,Daily,Low,4.8,Medium,No,No
+117,49,Female,102.9,Very High,26.7,No,No,Low,68.0,Weekly,None,7.7,Medium,Yes,Yes
+118,32,Female,117.1,Normal,22.1,Yes,No,Low,74.0,Daily,Low,6.9,Low,No,No
+119,67,Female,109.2,High,32.6,No,No,Low,,Daily,Moderate,5.3,High,Yes,No
+120,61,Male,92.0,Normal,38.6,No,No,High,82.0,Weekly,Low,8.7,Medium,No,No
+121,61,Female,118.8,High,28.0,Yes,No,Low,,Weekly,None,5.7,Low,Yes,Yes
+122,36,Female,118.2,Normal,22.5,No,Yes,Low,47.0,Never,None,8.8,Low,No,Yes
+123,71,Female,,Normal,,Yes,Yes,Low,88.0,Rarely,Moderate,6.9,High,Yes,Yes
+124,28,Male,129.5,Normal,28.3,No,No,Low,77.0,Daily,None,5.4,Low,No,Yes
+125,58,Female,104.6,Normal,32.5,No,No,Medium,86.0,Weekly,None,6.0,High,Yes,No
+126,82,Male,,Normal,29.4,Yes,Yes,Low,88.0,Weekly,None,9.1,Medium,Yes,No
+127,35,Male,138.3,High,27.0,Yes,No,Low,66.0,Daily,None,6.6,Medium,No,No
+128,41,Female,128.7,Very High,24.1,No,Yes,Medium,76.0,Rarely,None,8.5,Medium,No,No
+129,51,Female,116.6,Very High,21.5,Yes,No,Low,80.0,Weekly,Moderate,9.1,Low,No,Yes
+130,42,Male,105.6,High,31.2,Yes,No,Medium,74.0,Weekly,Moderate,6.9,Medium,No,Yes
+131,26,Female,114.4,Normal,31.6,No,No,Medium,72.0,Weekly,Low,6.7,Medium,No,No
+132,51,Male,136.3,Normal,19.3,No,No,Low,73.0,Daily,None,6.4,High,No,No
+133,34,Male,148.3,Normal,34.9,No,Yes,Medium,86.0,Weekly,Low,7.5,Medium,Yes,No
+134,57,Female,143.1,Normal,29.9,Yes,No,Low,72.0,Weekly,Low,9.3,Medium,Yes,Yes
+135,36,Female,112.7,High,34.0,Yes,No,Medium,81.0,Weekly,Low,5.2,Low,No,No
+136,73,Male,103.2,High,20.3,Yes,No,Low,78.0,Rarely,None,7.3,Medium,No,Yes
+137,196,Male,122.1,Normal,20.2,Yes,No,Low,65.0,Weekly,High,7.3,Low,No,No
+138,45,Male,93.5,Normal,26.3,No,No,Medium,,Weekly,Low,4.3,Low,No,No
+139,62,Male,124.8,Very High,29.5,No,No,High,60.0,Daily,High,5.7,Low,Yes,Yes
+140,31,Female,117.8,High,36.0,Yes,Yes,High,79.0,Daily,None,,Medium,Yes,No
+141,53,Female,113.0,Normal,30.5,No,No,Medium,84.0,Weekly,None,8.1,Medium,No,No
+142,69,Female,96.1,Very High,25.8,No,No,Low,86.0,Weekly,None,8.4,Medium,Yes,No
+143,25,Female,127.7,Very High,21.9,No,Yes,Low,65.0,Never,Moderate,4.2,Medium,Yes,Yes
+144,52,Female,112.0,Normal,33.2,No,No,Low,70.0,Rarely,None,8.0,High,No,Yes
+145,53,Male,102.5,Normal,22.2,No,No,Low,78.0,Weekly,Moderate,7.8,Medium,No,Yes
+146,61,Female,76.9,High,35.1,Yes,No,Low,70.0,Weekly,Moderate,7.9,Medium,Yes,Yes
+147,31,Female,119.6,Very High,25.6,Yes,No,High,56.0,Rarely,Low,7.2,Medium,No,No
+148,30,Female,,Very High,35.0,No,No,Low,70.0,Weekly,Low,8.4,High,Yes,No
+149,57,Female,144.9,Normal,30.4,Yes,No,Low,78.0,Daily,Moderate,8.8,Medium,Yes,No
+150,54,Female,113.1,Normal,26.3,No,Yes,Low,86.0,Rarely,Low,4.5,Medium,No,No
+151,53,Male,111.0,High,24.4,No,No,High,92.0,Daily,None,6.9,Low,No,Yes
+152,55,Male,127.0,High,25.3,No,Yes,Medium,76.0,Rarely,Low,6.6,High,Yes,No
+153,39,Male,105.0,Normal,29.1,No,No,Medium,81.0,Weekly,Moderate,6.1,Low,No,No
+154,53,Female,124.5,Very High,27.4,No,No,Low,85.0,Daily,None,6.3,Low,Yes,No
+155,54,Male,131.5,High,24.0,No,No,High,54.0,Weekly,High,7.3,Medium,No,Yes
+156,39,Male,138.4,Very High,26.2,No,No,Low,65.0,Daily,None,5.1,High,Yes,No
+157,77,Female,118.5,Very High,27.4,Yes,No,High,76.0,Never,None,8.0,Medium,No,Yes
+158,57,Female,116.9,High,16.4,No,No,Medium,91.0,Weekly,None,6.4,Medium,No,No
+159,32,Female,106.8,Normal,29.3,Yes,No,Low,81.0,Weekly,None,8.3,High,Yes,Yes
+160,59,Male,107.6,High,22.1,No,No,Low,78.0,Weekly,Moderate,6.1,Medium,No,No
+161,35,Male,116.6,Normal,21.2,No,No,Medium,73.0,Daily,High,6.0,Medium,No,No
+162,61,Female,125.5,High,18.6,No,Yes,Low,79.0,Daily,Moderate,5.6,Medium,Yes,Yes
+163,67,Female,133.7,Normal,18.0,No,No,High,69.0,Daily,High,6.1,High,No,No
+164,37,Male,108.0,High,20.2,No,Yes,Low,,Rarely,None,5.8,Medium,No,Yes
+165,64,Male,142.4,Normal,83.2,No,No,Low,68.0,Weekly,None,7.7,High,No,No
+166,56,Female,115.9,Normal,36.8,Yes,No,Low,,Weekly,Low,8.6,Low,No,No
+167,62,Female,119.7,Normal,24.4,No,No,Low,67.0,Weekly,Moderate,7.6,Medium,No,Yes
+168,78,Male,108.8,Normal,27.9,No,Yes,Low,71.0,Daily,None,6.9,Low,No,No
+169,46,Female,83.6,High,29.0,No,Yes,Low,80.0,Rarely,High,7.7,Medium,No,Yes
+170,38,Male,133.3,High,27.7,No,No,Medium,66.0,Weekly,Low,6.9,High,No,No
+171,36,Male,131.1,High,26.6,Yes,No,Low,77.0,Weekly,High,7.0,Medium,No,No
+172,37,Male,115.8,Normal,21.0,No,No,High,77.0,Daily,None,,Low,Yes,Yes
+173,48,Male,121.0,Normal,34.3,No,No,Medium,69.0,Daily,Low,8.3,Low,No,No
+174,55,Female,127.7,Normal,36.0,No,No,High,72.0,Weekly,Moderate,3.2,Medium,No,No
+175,54,Female,96.6,Normal,18.6,Yes,No,Low,66.0,Never,Moderate,3.8,Low,No,Yes
+176,62,Male,112.1,Very High,21.9,No,No,Low,89.0,Weekly,None,8.5,Medium,No,No
+177,50,Male,131.9,Normal,25.6,No,No,Low,78.0,Weekly,High,6.7,High,Yes,Yes
+178,71,Male,101.2,Normal,22.2,Yes,No,Medium,65.0,Daily,Moderate,8.4,Medium,Yes,Yes
+179,46,Male,124.4,Normal,29.5,No,No,High,76.0,Weekly,None,6.1,Medium,No,No
+180,90,Male,99.7,Normal,23.4,No,Yes,Low,77.0,Weekly,None,9.5,Medium,No,No
+181,59,Female,256.9,High,37.8,No,No,Low,53.0,Weekly,Low,6.8,Medium,No,No
+182,37,Female,119.5,High,33.0,No,Yes,High,88.0,Weekly,Low,7.7,Low,No,Yes
+183,33,Female,,Normal,28.1,No,No,Low,65.0,Daily,Moderate,6.3,High,No,No
+184,57,Female,137.5,Normal,32.1,No,No,Medium,96.0,Never,None,5.7,Medium,Yes,No
+185,46,Male,109.0,Normal,32.5,No,No,Medium,83.0,Weekly,Low,4.4,Low,No,No
+186,60,Male,107.8,Normal,,Yes,Yes,High,64.0,Daily,Low,8.2,Low,Yes,Yes
+187,57,Male,123.0,Normal,22.9,Yes,No,Low,72.0,Rarely,None,7.6,Low,No,No
+188,48,Male,137.2,Very High,,No,Yes,Low,84.0,Daily,Low,7.1,Medium,No,No
+189,37,Male,,High,31.3,No,Yes,Medium,73.0,Weekly,None,5.3,Medium,Yes,No
+190,27,Female,120.9,High,27.7,Yes,No,High,87.0,Weekly,None,9.1,Medium,Yes,No
+191,43,Male,126.4,Normal,19.1,No,No,Low,71.0,Never,Low,7.2,Medium,Yes,Yes
+192,62,Female,130.4,Normal,23.0,No,No,Low,74.0,Weekly,High,8.1,High,No,Yes
+193,53,Female,122.6,High,26.6,Yes,No,Medium,85.0,Weekly,None,7.0,High,Yes,No
+194,31,Female,114.5,High,,No,No,High,81.0,Rarely,None,5.4,Medium,No,No
+195,52,Female,107.6,High,36.9,Yes,Yes,High,66.0,Weekly,None,8.5,Medium,Yes,Yes
+196,55,Male,121.3,Normal,20.1,No,No,High,79.0,Rarely,None,7.7,High,No,Yes
+197,36,Female,103.9,High,29.5,No,No,Low,77.0,Weekly,Low,6.7,Medium,Yes,No
+198,52,Female,76.2,Normal,34.4,No,No,Low,66.0,Daily,Moderate,7.7,Medium,Yes,No
+199,50,Female,126.5,Very High,38.4,Yes,No,Medium,61.0,Never,None,8.2,Low,Yes,No
+200,32,Male,133.6,High,25.0,No,No,High,56.0,Rarely,High,8.0,Medium,No,No
+201,55,Male,,High,29.5,No,No,Low,72.0,Daily,None,4.4,Low,No,No
+202,58,Male,104.9,Normal,29.8,No,No,Low,74.0,Weekly,Moderate,4.8,Low,Yes,Yes
+203,66,Female,129.3,High,28.0,Yes,No,Medium,80.0,Never,Moderate,8.1,High,Yes,No
+204,65,Female,150.9,Normal,26.5,No,Yes,Low,83.0,Weekly,Low,6.0,Medium,Yes,No
+205,29,Male,120.3,Normal,29.2,No,No,Low,71.0,Rarely,None,5.4,High,No,No
+206,35,Female,109.1,Normal,83.2,No,No,Medium,74.0,Rarely,Low,7.6,Medium,Yes,No
+207,57,Male,117.3,High,30.4,No,No,Medium,67.0,Daily,Low,5.4,High,No,No
+208,57,Male,140.6,Normal,27.6,No,Yes,Medium,,Daily,Moderate,6.3,Medium,No,No
+209,57,Female,110.3,Normal,25.9,No,Yes,Low,85.0,Weekly,Low,8.3,Medium,No,No
+210,107,Female,108.0,Very High,37.2,Yes,No,Medium,76.0,Rarely,Low,4.7,Medium,No,No
+211,58,Female,112.8,Normal,23.6,No,Yes,Medium,87.0,Rarely,Moderate,,Low,Yes,No
+212,67,Female,105.7,High,25.0,Yes,No,Medium,85.0,Daily,High,4.6,Medium,No,Yes
+213,64,Male,121.8,Normal,37.0,No,No,Medium,90.0,Never,Low,5.7,Medium,Yes,No
+214,59,Male,144.4,Normal,22.8,Yes,No,Low,76.0,Weekly,Moderate,7.1,Low,No,Yes
+215,45,Male,124.8,High,24.2,No,No,Low,70.0,Rarely,Low,6.1,Medium,No,Yes
+216,61,Male,116.2,Normal,26.3,Yes,No,Low,81.0,Weekly,Low,9.3,Low,Yes,Yes
+217,38,Male,115.6,Normal,31.2,No,No,Low,71.0,Rarely,Low,7.7,Low,Yes,No
+218,46,Female,96.6,High,28.0,No,Yes,Medium,81.0,Weekly,Moderate,7.0,Medium,Yes,No
+219,42,Male,,High,20.5,Yes,Yes,High,68.0,Daily,None,8.9,High,Yes,No
+220,51,Male,118.8,High,24.3,Yes,No,Medium,67.0,Weekly,Low,5.0,Medium,Yes,Yes
+221,84,Male,117.3,Normal,24.0,Yes,No,Medium,87.0,Rarely,Low,8.3,Medium,Yes,Yes
+222,21,Female,167.9,Normal,26.6,No,No,Low,65.0,Daily,None,6.6,High,Yes,No
+223,60,Female,124.5,High,,No,No,Low,85.0,Rarely,None,6.3,Medium,No,Yes
+224,25,Female,108.7,High,29.1,No,No,Low,81.0,Weekly,Moderate,7.9,Medium,No,No
+225,42,Female,113.6,Very High,18.1,Yes,Yes,Low,76.0,Weekly,Low,6.4,Low,No,No
+226,66,Male,137.2,Very High,32.3,No,No,Low,56.0,Rarely,None,7.3,Medium,No,No
+227,50,Male,121.7,Very High,28.3,No,No,Medium,90.0,Weekly,Moderate,6.9,Medium,No,No
+228,33,Female,98.4,Normal,33.9,No,No,High,66.0,Daily,Moderate,7.5,Medium,No,Yes
+229,39,Female,133.8,Normal,29.2,No,No,Low,85.0,Daily,Low,6.2,High,No,No
+230,60,Male,,High,32.5,Yes,Yes,Low,68.0,Weekly,None,8.4,Medium,No,No
+231,39,Male,148.1,Normal,,Yes,No,Medium,67.0,Never,High,3.9,Low,Yes,No
+232,53,Female,136.2,Normal,33.7,Yes,No,Low,82.0,Weekly,Moderate,8.0,High,No,Yes
+233,50,Female,113.3,Very High,29.6,Yes,Yes,High,80.0,Weekly,None,4.2,Medium,No,No
+234,40,Female,139.2,Very High,26.5,Yes,No,Medium,64.0,Weekly,None,5.9,High,No,No
+235,82,Female,121.0,Normal,38.4,Yes,No,High,89.0,Weekly,Low,,Medium,No,Yes
+236,59,Male,132.8,Normal,31.4,No,No,Low,73.0,Weekly,Low,,Low,Yes,No
+237,19,Male,127.3,Normal,29.9,No,No,Medium,76.0,Rarely,None,7.2,Medium,Yes,Yes
+238,52,Male,107.3,Very High,20.6,No,Yes,Low,72.0,Rarely,Low,4.9,Medium,No,No
+239,40,Female,,Very High,20.6,No,No,Medium,64.0,Weekly,Low,5.5,Low,No,No
+240,62,Female,,Normal,28.5,No,No,Low,82.0,Weekly,Moderate,5.5,Medium,Yes,No
+241,38,Male,115.0,Normal,27.7,Yes,No,Low,78.0,Daily,Low,5.0,Medium,Yes,No
+242,48,Male,113.9,Very High,23.9,No,Yes,Medium,67.0,Weekly,Low,4.4,Medium,No,No
+243,57,Male,105.7,Normal,,Yes,No,Medium,84.0,Daily,High,10.1,Low,No,No
+244,62,Male,126.4,High,34.9,No,No,High,76.0,Daily,None,6.7,Medium,No,No
+245,31,Female,150.9,Very High,30.5,No,No,Medium,76.0,Daily,None,5.1,Low,Yes,Yes
+246,44,Male,104.0,Normal,21.3,No,No,Medium,93.0,Never,Moderate,6.2,Medium,Yes,No
+247,42,Male,120.4,High,26.4,Yes,Yes,Low,59.0,Daily,None,7.1,Low,Yes,No
+248,40,Male,,Normal,23.0,Yes,No,Medium,59.0,Rarely,Moderate,6.4,Low,No,No
+249,76,Male,118.8,Normal,25.1,No,Yes,Medium,61.0,Never,None,5.1,Medium,Yes,No
+250,56,Male,126.8,Very High,24.9,Yes,No,High,79.0,Weekly,None,5.7,Low,Yes,No
+251,31,Male,104.1,Normal,24.6,No,No,High,71.0,Rarely,High,8.8,Medium,No,No
+252,63,Male,126.4,Very High,83.2,No,No,Low,72.0,Rarely,Low,4.9,High,No,No
+253,81,Female,117.2,High,26.4,No,No,High,66.0,Rarely,Moderate,4.0,Medium,Yes,No
+254,65,Female,134.8,Normal,24.2,No,No,Low,92.0,Rarely,None,6.4,Medium,No,No
+255,27,Female,137.8,Normal,12.4,No,No,Low,95.0,Weekly,None,4.1,High,No,No
+256,42,Female,158.8,Normal,37.3,Yes,Yes,Medium,84.0,Rarely,Moderate,5.6,High,No,Yes
+257,69,Male,128.7,Normal,32.4,No,Yes,Low,60.0,Weekly,None,5.1,High,No,Yes
+258,39,Female,124.9,Normal,25.1,No,No,Medium,70.0,Daily,Low,5.1,Low,No,No
+259,56,Female,122.9,Normal,27.1,No,Yes,Low,83.0,Weekly,None,7.1,Medium,Yes,Yes
+260,61,Male,114.7,Normal,,Yes,No,Low,75.0,Weekly,None,7.4,High,No,No
+261,36,Male,125.1,High,35.5,No,No,Medium,84.0,Daily,Moderate,5.8,High,No,No
+262,49,Female,115.6,High,36.5,No,No,Medium,87.0,Rarely,Moderate,6.9,Medium,No,Yes
+263,1,Female,122.5,High,27.8,No,No,High,94.0,Weekly,Low,5.7,Low,No,No
+264,196,Male,139.8,Normal,32.1,No,No,Medium,68.0,Daily,Low,7.6,High,No,No
+265,46,Female,,Normal,27.9,Yes,No,Medium,76.0,Daily,Low,4.8,Medium,No,No
+266,31,Male,137.1,High,20.3,No,No,Low,71.0,Weekly,Low,,Medium,Yes,Yes
+267,74,Male,139.8,Normal,24.9,No,No,Low,55.0,Rarely,Moderate,7.4,Medium,Yes,Yes
+268,28,Male,118.2,Normal,27.7,No,Yes,Low,82.0,Daily,None,10.5,Medium,No,No
+269,43,Male,88.2,Very High,24.7,No,No,Medium,81.0,Rarely,None,4.4,Low,Yes,Yes
+270,51,Female,110.9,High,,Yes,No,Medium,70.0,Weekly,High,,Medium,No,No
+271,71,Male,139.5,High,26.5,No,No,Low,59.0,Weekly,None,8.1,High,Yes,No
+272,28,Male,119.7,Normal,26.6,No,Yes,Medium,71.0,Weekly,None,9.7,Medium,No,Yes
+273,67,Female,105.0,High,27.3,No,Yes,Medium,,Daily,Low,8.4,Medium,No,No
+274,50,Male,112.4,High,21.7,No,No,Low,88.0,Daily,Moderate,5.6,High,Yes,No
+275,35,Female,132.6,High,23.4,No,No,Low,68.0,Daily,Low,8.0,Medium,Yes,Yes
+276,56,Female,128.2,High,20.6,No,No,High,86.0,Never,None,6.0,Medium,Yes,Yes
+277,52,Female,116.4,Very High,31.9,Yes,No,Medium,81.0,Weekly,High,6.9,Medium,Yes,Yes
+278,40,Male,114.5,High,16.5,No,No,High,79.0,Daily,Moderate,5.2,Low,No,Yes
+279,51,Female,114.1,Normal,32.8,No,No,Low,62.0,Weekly,Moderate,6.0,Low,No,No
+280,44,Female,106.2,High,33.9,No,No,High,62.0,Daily,None,,Medium,Yes,Yes
+281,51,Male,144.2,High,25.5,No,Yes,Low,67.0,Daily,None,7.7,High,No,No
+282,59,Female,115.2,High,14.0,No,No,Low,72.0,Weekly,None,8.5,Medium,Yes,No
+283,73,Female,138.3,Normal,25.2,No,No,High,93.0,Never,None,4.9,Low,No,No
+284,31,Female,142.8,Normal,26.7,No,No,Low,68.0,Weekly,None,4.2,Medium,Yes,Yes
+285,81,Female,135.0,Very High,21.9,Yes,No,Medium,83.0,Daily,None,8.7,Low,No,No
+286,20,Female,113.5,High,24.4,No,No,Low,70.0,Weekly,Low,,Medium,No,Yes
+287,47,Male,126.1,Very High,34.7,Yes,No,Medium,80.0,Daily,Low,7.3,Low,No,No
+288,58,Female,119.6,High,30.3,No,No,High,74.0,Weekly,Moderate,7.6,High,No,No
+289,54,Female,106.4,High,22.4,Yes,No,Low,77.0,Weekly,None,8.3,Low,No,No
+290,40,Male,124.9,High,19.0,No,Yes,Medium,,Weekly,Low,7.3,Low,No,No
+291,46,Male,102.3,Very High,25.4,No,Yes,Low,73.0,Weekly,None,7.8,Medium,No,No
+292,42,Male,137.8,High,25.9,No,No,Medium,79.0,Daily,Low,8.2,Low,Yes,No
+293,41,Female,113.0,High,29.5,No,No,Low,,Rarely,Low,6.9,Medium,No,No
+294,62,Male,123.0,Normal,24.3,No,No,Low,67.0,Rarely,Low,6.5,High,Yes,No
+295,55,Female,124.2,Normal,29.6,Yes,No,Low,87.0,Daily,Moderate,7.6,Low,No,No
+296,39,Female,116.1,High,83.2,No,No,Low,72.0,Rarely,Moderate,10.4,Medium,No,No
+297,63,Male,256.9,Normal,31.1,No,No,High,71.0,Weekly,Low,5.7,High,No,No
+298,54,Male,112.9,Normal,26.8,Yes,Yes,Low,82.0,Never,Moderate,6.4,Medium,No,No
+299,62,Female,133.1,Normal,26.1,No,Yes,Low,72.0,Rarely,Low,4.4,High,Yes,No
+300,59,Male,99.8,Normal,25.2,No,No,Low,78.0,Weekly,Moderate,7.7,Low,No,No
+301,37,Female,121.9,Normal,32.9,No,Yes,Low,77.0,Daily,Low,6.2,Low,Yes,Yes
+302,41,Male,149.1,Normal,,Yes,No,Medium,54.0,Rarely,Low,4.9,Low,Yes,Yes
+303,61,Male,105.0,Very High,27.2,No,No,High,79.0,Rarely,Moderate,6.9,Medium,No,No
+304,59,Male,109.8,High,27.3,Yes,No,Low,61.0,Never,None,9.2,Medium,Yes,No
+305,49,Female,127.7,Normal,24.5,Yes,Yes,High,61.0,Weekly,Low,6.5,Low,No,No
+306,51,Male,122.7,Normal,20.1,No,No,Medium,79.0,Rarely,High,6.6,Medium,No,No
+307,69,Female,125.3,High,28.6,No,No,Low,80.0,Weekly,Moderate,9.2,Low,No,No
+308,41,Female,127.3,Normal,26.7,No,No,Medium,87.0,Daily,None,7.0,High,Yes,No
+309,58,Female,129.5,Very High,29.5,Yes,No,Medium,64.0,Weekly,None,5.2,Low,No,Yes
+310,46,Female,136.6,High,24.3,No,Yes,Medium,68.0,Rarely,Moderate,8.0,Low,No,No
+311,46,Male,126.1,High,33.1,No,No,High,80.0,Weekly,High,8.7,Medium,No,Yes
+312,66,Female,116.4,Normal,22.6,No,No,Low,87.0,Daily,None,6.7,Low,No,No
+313,62,Female,130.1,High,35.6,No,No,High,77.0,Weekly,Moderate,7.2,Medium,No,Yes
+314,62,Male,148.5,Normal,18.3,Yes,No,Medium,66.0,Weekly,Moderate,5.0,Medium,Yes,No
+315,69,Female,,Very High,29.2,No,No,Low,90.0,Weekly,None,5.7,High,No,No
+316,50,Male,105.4,High,29.4,No,Yes,Medium,72.0,Rarely,Moderate,6.5,Medium,No,Yes
+317,60,Female,136.6,Normal,23.0,Yes,No,Low,73.0,Weekly,None,7.1,Medium,No,No
+318,45,Male,118.2,Normal,29.1,Yes,No,High,61.0,Daily,Low,6.1,High,Yes,No
+319,54,Female,87.4,Normal,33.4,Yes,No,Medium,82.0,Weekly,Low,6.4,High,No,Yes
+320,48,Male,132.7,High,15.9,Yes,No,Low,84.0,Weekly,Low,,Medium,No,No
+321,51,Female,112.0,Normal,29.5,No,No,Low,68.0,Weekly,Moderate,5.5,Medium,No,No
+322,58,Female,118.6,High,14.5,No,No,Medium,93.0,Never,Low,6.6,Medium,No,Yes
+323,37,Male,125.0,Normal,,Yes,Yes,Low,69.0,Rarely,Moderate,8.7,Medium,Yes,Yes
+324,81,Male,122.9,High,35.1,Yes,No,Low,81.0,Daily,Moderate,6.1,High,Yes,Yes
+325,34,Male,130.6,Very High,24.1,No,No,Low,77.0,Daily,Moderate,5.6,Medium,No,No
+326,31,Male,,High,21.1,No,No,Low,55.0,Daily,Low,10.1,Low,No,Yes
+327,67,Female,127.7,High,26.0,No,No,Low,80.0,Daily,None,7.3,Low,No,Yes
+328,61,Female,116.1,Normal,37.3,No,No,Low,80.0,Weekly,Low,5.8,Low,Yes,Yes
+329,59,Male,131.1,Normal,17.8,No,No,Low,57.0,Rarely,Moderate,8.0,Low,No,No
+330,59,Female,129.2,High,21.7,Yes,No,Medium,90.0,Weekly,None,7.4,Low,Yes,No
+331,49,Male,106.0,Normal,34.5,Yes,No,Medium,80.0,Never,High,6.1,Medium,No,No
+332,36,Male,136.3,Normal,36.3,No,No,Low,,Daily,Moderate,6.9,Low,Yes,No
+333,51,Female,112.0,Normal,26.5,No,No,Low,58.0,Daily,Moderate,6.6,Medium,No,No
+334,39,Female,132.1,Normal,20.8,No,No,Medium,71.0,Daily,Low,8.5,Low,No,Yes
+335,64,Female,125.5,Normal,37.5,No,Yes,Low,,Weekly,Low,8.0,Low,No,No
+336,47,Female,147.6,Very High,35.0,No,No,Low,,Rarely,Moderate,3.8,Medium,No,No
+337,37,Female,116.6,Normal,30.4,Yes,No,Low,71.0,Rarely,Low,9.9,High,No,No
+338,45,Female,114.8,High,22.9,No,Yes,High,79.0,Weekly,Moderate,6.6,Medium,Yes,No
+339,56,Female,119.7,Normal,26.8,Yes,No,Medium,56.0,Weekly,Low,9.6,Medium,No,No
+340,41,Male,115.5,High,26.2,Yes,No,Medium,62.0,Weekly,Moderate,8.1,Medium,No,Yes
+341,37,Male,132.0,Normal,28.7,No,No,Medium,,Daily,Moderate,7.4,Low,Yes,Yes
+342,53,Male,95.8,Very High,34.3,No,No,Medium,76.0,Daily,None,6.9,Medium,No,No
+343,53,Male,104.2,Very High,31.4,No,Yes,Low,87.0,Rarely,None,11.1,Low,No,No
+344,42,Male,104.0,Normal,21.6,No,No,Medium,,Rarely,Moderate,6.6,Medium,Yes,Yes
+345,42,Female,134.3,Very High,33.9,Yes,No,Low,100.0,Weekly,None,6.0,Medium,Yes,No
+346,53,Male,145.7,Very High,28.6,Yes,No,Medium,79.0,Rarely,Low,6.1,Medium,No,No
+347,28,Male,118.4,Very High,30.4,No,No,Medium,88.0,Daily,Low,7.0,Low,No,Yes
+348,28,Male,117.5,Very High,34.3,No,No,Medium,73.0,Weekly,None,7.0,Medium,Yes,No
+349,39,Male,121.1,Normal,21.4,No,No,Low,77.0,Rarely,None,8.5,Low,No,Yes
+350,46,Male,137.4,High,26.8,No,No,Low,81.0,Weekly,Moderate,8.1,Low,No,No
+351,54,Male,106.1,Normal,24.3,No,No,Medium,,Weekly,Low,8.1,Medium,Yes,No
+352,72,Male,123.6,Normal,19.2,No,No,Medium,75.0,Daily,Low,6.7,Medium,Yes,Yes
+353,62,Female,134.6,Very High,28.7,Yes,Yes,High,75.0,Never,High,8.0,Low,No,No
+354,47,Female,127.5,Normal,39.6,No,Yes,Low,80.0,Daily,None,8.2,Medium,No,No
+355,49,Male,,High,17.8,No,No,Medium,80.0,Weekly,None,6.9,High,No,Yes
+356,34,Female,135.0,Very High,26.8,Yes,No,Medium,65.0,Daily,Moderate,7.4,Low,No,No
+357,49,Female,79.5,Very High,30.2,No,No,High,77.0,Never,Moderate,8.2,Medium,Yes,Yes
+358,45,Female,130.2,Very High,27.6,No,Yes,Medium,78.0,Weekly,Low,7.3,Low,No,No
+359,54,Female,110.2,Normal,26.4,No,Yes,Medium,65.0,Weekly,High,7.5,Medium,No,Yes
+360,37,Male,92.5,Normal,20.5,Yes,No,Medium,84.0,Weekly,High,9.1,Low,Yes,No
+361,57,Female,127.7,Normal,28.2,No,No,Medium,79.0,Daily,None,7.3,High,No,Yes
+362,72,Female,140.6,Normal,23.2,Yes,No,High,98.0,Weekly,None,6.1,Medium,Yes,Yes
+363,48,Female,117.9,Normal,16.1,No,No,Low,,Daily,Moderate,5.0,Medium,No,No
+364,56,Male,134.3,Normal,33.0,Yes,No,Low,86.0,Rarely,None,7.2,Low,Yes,No
+365,60,Male,144.2,High,31.8,Yes,No,High,80.0,Daily,None,6.5,High,Yes,No
+366,196,Male,139.7,High,27.3,No,No,Medium,94.0,Rarely,Moderate,8.2,High,No,No
+367,53,Male,144.6,Normal,28.1,No,No,Medium,65.0,Daily,Low,9.4,Medium,Yes,No
+368,50,Male,131.1,High,32.4,Yes,No,Low,70.0,Daily,Low,5.5,High,No,Yes
+369,51,Male,121.1,Normal,28.1,Yes,No,Low,66.0,Weekly,None,5.7,Low,Yes,Yes
+370,38,Male,96.0,Normal,31.5,No,Yes,Medium,74.0,Weekly,Low,7.0,Medium,Yes,No
+371,50,Female,116.3,High,25.5,No,No,Medium,64.0,Weekly,Low,5.8,Medium,Yes,No
+372,57,Female,107.4,High,33.6,No,No,Low,60.0,Never,None,6.7,Medium,Yes,No
+373,71,Female,152.6,High,28.6,Yes,No,Low,54.0,Weekly,None,6.2,High,Yes,Yes
+374,64,Male,117.4,Normal,28.0,No,Yes,High,53.0,Weekly,Low,5.5,Low,No,No
+375,82,Male,121.8,Very High,20.6,Yes,No,Low,82.0,Daily,High,8.2,Low,Yes,Yes
+376,38,Male,128.3,High,28.4,Yes,No,High,70.0,Daily,High,7.1,Low,Yes,No
+377,63,Male,120.7,High,83.2,No,No,Low,,Daily,None,9.7,High,No,No
+378,52,Male,145.4,High,23.8,No,No,Medium,68.0,Weekly,Moderate,7.5,High,Yes,Yes
+379,82,Female,110.7,Very High,22.9,No,No,High,70.0,Daily,Moderate,8.9,Medium,No,No
+380,37,Female,122.9,High,21.7,No,No,Medium,65.0,Weekly,Moderate,5.9,Medium,Yes,No
+381,37,Male,108.9,High,,No,No,Low,91.0,Weekly,Low,5.9,Medium,Yes,Yes
+382,41,Male,256.9,Very High,33.7,No,No,Medium,89.0,Weekly,None,10.3,Medium,No,No
+383,18,Male,110.8,High,36.6,No,No,Low,91.0,Daily,Moderate,6.1,Low,No,No
+384,42,Male,119.4,Normal,20.9,Yes,No,Low,77.0,Daily,None,5.6,Medium,Yes,Yes
+385,38,Female,113.6,High,27.4,Yes,No,High,78.0,Weekly,None,5.2,Medium,No,No
+386,52,Male,109.6,Normal,20.5,No,No,Medium,68.0,Daily,Low,9.9,Medium,Yes,Yes
+387,55,Male,98.9,Normal,23.5,No,No,Medium,67.0,Weekly,High,6.6,Low,Yes,No
+388,78,Male,118.8,High,22.4,Yes,No,Low,75.0,Daily,None,7.6,Medium,No,No
+389,64,Male,97.4,Very High,33.2,No,No,Low,82.0,Weekly,Low,7.2,High,Yes,No
+390,41,Female,131.4,Very High,25.0,Yes,No,Low,87.0,Rarely,None,5.9,Medium,No,Yes
+391,36,Male,121.2,Normal,32.3,No,No,Medium,70.0,Weekly,Moderate,6.6,Medium,Yes,Yes
+392,57,Male,98.1,High,30.0,Yes,No,Medium,62.0,Weekly,Low,8.3,Medium,No,No
+393,30,Female,115.4,Normal,38.5,No,No,Medium,82.0,Weekly,None,5.2,Medium,No,Yes
+394,77,Female,108.7,Very High,19.6,No,No,High,57.0,Weekly,None,8.0,Medium,No,No
+395,67,Female,124.8,Very High,33.3,Yes,Yes,Low,75.0,Weekly,Low,9.2,Medium,Yes,Yes
+396,42,Male,140.1,High,32.7,No,No,Low,76.0,Daily,None,7.4,Medium,No,No
+397,24,Male,91.9,Very High,22.1,No,No,Low,71.0,Daily,None,9.0,Medium,No,No
+398,70,Female,121.7,High,32.0,No,No,Low,60.0,Weekly,Low,4.9,Medium,No,No
+399,48,Female,117.6,High,,No,No,Low,71.0,Daily,Low,4.3,Medium,No,Yes
+400,68,Female,130.1,Normal,25.9,No,No,High,91.0,Weekly,Moderate,7.4,Medium,No,No
+401,26,Female,123.2,Normal,22.9,Yes,Yes,Low,81.0,Daily,None,6.1,Medium,No,Yes
+402,41,Female,108.7,High,23.4,No,No,High,87.0,Weekly,Low,8.3,High,Yes,No
+403,50,Female,,High,37.2,Yes,No,Low,63.0,Rarely,Low,6.5,Medium,No,Yes
+404,50,Male,108.1,Normal,27.0,Yes,No,High,78.0,Never,None,7.2,High,No,No
+405,43,Male,136.1,Very High,30.9,Yes,No,Medium,76.0,Daily,Low,7.1,Medium,Yes,No
+406,59,Male,120.3,Normal,23.0,No,Yes,High,76.0,Weekly,None,7.2,Low,No,No
+407,33,Female,148.5,High,23.1,No,No,Low,81.0,Daily,Moderate,6.2,High,No,No
+408,47,Female,119.1,High,32.4,Yes,No,Medium,76.0,Weekly,Low,5.0,Medium,No,No
+409,51,Female,109.4,High,20.3,Yes,No,High,63.0,Weekly,Low,6.7,High,Yes,No
+410,57,Female,97.3,High,24.9,No,Yes,Low,81.0,Rarely,None,9.2,Medium,Yes,Yes
+411,60,Female,,Normal,27.2,Yes,No,Low,83.0,Daily,None,6.1,Low,No,No
+412,33,Female,96.2,Normal,27.6,Yes,Yes,Low,88.0,Rarely,Low,6.1,Medium,No,No
+413,26,Male,124.0,High,26.1,Yes,No,High,89.0,Daily,Low,7.2,Medium,No,No
+414,69,Male,,High,29.0,No,No,Medium,80.0,Weekly,None,5.2,High,No,Yes
+415,54,Female,96.3,Normal,30.5,No,No,Medium,64.0,Daily,None,8.5,Medium,No,Yes
+416,38,Male,133.4,High,30.7,No,No,Low,60.0,Rarely,None,5.4,Medium,Yes,No
+417,73,Female,112.8,Normal,22.1,No,No,Low,73.0,Rarely,Low,6.6,Medium,Yes,No
+418,51,Male,122.2,High,25.6,No,No,High,84.0,Weekly,None,10.8,Medium,Yes,Yes
+419,67,Female,144.2,Very High,33.0,No,Yes,Low,84.0,Weekly,Low,5.3,Low,Yes,Yes
+420,51,Female,133.5,Normal,31.5,No,No,Medium,78.0,Rarely,None,9.2,Low,No,Yes
+421,80,Male,116.0,Normal,20.1,No,No,High,75.0,Daily,Low,7.2,Medium,No,No
+422,76,Male,106.6,High,28.8,Yes,Yes,Low,94.0,Rarely,None,,Low,No,No
+423,46,Female,87.7,High,17.1,Yes,No,Medium,81.0,Weekly,Low,5.8,Low,No,Yes
+424,64,Female,109.2,High,27.2,No,No,Low,74.0,Rarely,None,8.2,Low,No,Yes
+425,59,Male,116.8,Very High,36.5,No,Yes,Medium,69.0,Weekly,None,6.5,High,No,No
+426,70,Male,105.2,Very High,22.3,No,Yes,Low,,Weekly,Low,,Low,No,Yes
+427,35,Female,118.0,Very High,22.8,No,No,Medium,64.0,Rarely,None,9.2,Low,Yes,No
+428,60,Male,121.2,High,30.8,No,No,Low,65.0,Daily,None,6.4,Low,No,No
+429,65,Female,116.6,Normal,19.3,Yes,No,Low,78.0,Weekly,Moderate,4.2,Medium,Yes,No
+430,23,Female,110.2,Normal,23.8,No,No,Medium,75.0,Daily,Moderate,6.6,Medium,Yes,No
+431,32,Female,122.5,Normal,30.0,No,No,Low,72.0,Rarely,None,8.2,Low,No,No
+432,19,Female,126.6,High,23.8,No,Yes,Medium,82.0,Weekly,Moderate,8.0,Medium,Yes,Yes
+433,45,Male,103.6,Normal,25.8,No,No,Low,93.0,Never,Low,6.0,Medium,Yes,No
+434,60,Male,141.2,Very High,30.7,No,No,Medium,67.0,Daily,None,5.5,Medium,No,Yes
+435,72,Male,118.5,High,29.1,Yes,No,Low,68.0,Weekly,High,5.0,Medium,No,No
+436,51,Male,120.3,High,28.3,No,No,Medium,53.0,Daily,Moderate,7.0,Medium,Yes,Yes
+437,74,Male,130.6,Normal,,Yes,No,Low,75.0,Weekly,High,7.2,Low,Yes,No
+438,29,Male,123.5,Normal,28.9,No,Yes,Low,74.0,Daily,None,8.1,Medium,No,Yes
+439,24,Male,134.3,Normal,26.4,No,Yes,Low,84.0,Weekly,None,,High,Yes,Yes
+440,49,Female,124.3,Normal,29.3,No,No,Medium,74.0,Never,Low,6.7,Medium,No,No
+441,55,Male,110.8,Normal,24.5,No,No,Low,69.0,Rarely,Low,6.6,Medium,No,No
+442,49,Male,125.4,High,26.1,No,No,High,77.0,Weekly,None,7.2,High,No,No
+443,18,Female,102.8,Very High,22.1,No,No,High,81.0,Weekly,Moderate,6.8,Medium,Yes,Yes
+444,48,Male,,Very High,26.8,No,No,Low,59.0,Never,Low,8.4,Low,No,Yes
+445,30,Male,119.5,High,22.9,No,No,Medium,85.0,Daily,Low,7.5,Medium,No,No
+446,60,Female,,Normal,21.4,No,Yes,Low,88.0,Weekly,Low,7.2,Medium,Yes,Yes
+447,55,Male,118.1,Very High,28.3,No,Yes,Low,80.0,Weekly,Low,,High,Yes,No
+448,35,Male,91.8,Very High,83.2,Yes,No,Medium,66.0,Rarely,None,5.6,Medium,Yes,No
+449,42,Male,111.8,Normal,30.9,No,No,Medium,72.0,Weekly,High,7.0,Low,No,No
+450,34,Female,121.4,High,,No,No,Medium,87.0,Never,None,6.0,Medium,No,No
+451,49,Male,122.4,Normal,29.0,Yes,No,Low,65.0,Never,None,7.5,High,Yes,No
+452,64,Male,104.6,Very High,29.8,Yes,No,Low,81.0,Daily,Moderate,6.7,Low,Yes,No
+453,35,Female,139.0,Very High,29.2,Yes,No,Low,74.0,Weekly,High,9.5,High,No,Yes
+454,57,Male,107.0,Normal,22.9,No,No,Medium,77.0,Weekly,Moderate,5.1,Medium,No,Yes
+455,42,Female,134.5,Very High,27.7,No,Yes,Medium,67.0,Rarely,Moderate,2.3,Medium,No,No
+456,38,Female,126.4,High,28.8,No,No,Medium,78.0,Weekly,Low,7.4,Medium,Yes,Yes
+457,48,Male,110.3,Very High,,Yes,No,Low,78.0,Never,High,6.0,Medium,Yes,Yes
+458,34,Female,146.6,Normal,16.6,No,Yes,Low,60.0,Weekly,None,7.2,Medium,No,No
+459,41,Female,102.1,Very High,27.8,Yes,No,Low,75.0,Weekly,Moderate,5.1,High,Yes,No
+460,32,Male,133.8,Normal,38.1,No,No,Low,81.0,Weekly,Low,,Medium,No,No
+461,79,Female,135.0,Normal,,No,No,Low,71.0,Daily,None,6.4,Medium,No,No
+462,50,Female,109.9,Normal,23.4,Yes,No,High,51.0,Weekly,Low,5.9,Low,Yes,Yes
+463,39,Male,140.9,Very High,28.9,No,No,High,74.0,Weekly,Low,9.8,Low,No,No
+464,53,Male,116.2,Very High,28.6,Yes,Yes,Medium,90.0,Weekly,Low,8.3,Medium,No,Yes
+465,48,Male,124.3,Very High,33.0,No,No,Low,72.0,Rarely,None,9.1,Low,No,No
+466,46,Female,123.9,Very High,20.7,No,No,Low,89.0,Daily,Moderate,,Medium,No,No
+467,59,Male,118.0,Normal,30.7,No,No,High,67.0,Weekly,None,7.1,Medium,No,No
+468,61,Female,,Normal,30.0,Yes,No,Low,,Rarely,Low,6.1,High,No,No
+469,42,Female,131.9,Normal,26.3,Yes,No,High,75.0,Daily,Moderate,5.9,Low,No,No
+470,41,Female,93.8,Normal,28.7,No,No,Low,67.0,Never,Low,7.6,Low,Yes,No
+471,45,Female,139.6,Normal,32.1,Yes,No,Low,78.0,Daily,None,6.4,Low,Yes,Yes
+472,15,Female,95.1,Normal,31.4,No,No,High,71.0,Daily,None,10.3,High,No,No
+473,27,Female,135.5,Normal,21.3,No,No,Low,90.0,Weekly,Low,8.3,Medium,No,No
+474,70,Female,136.9,Normal,,Yes,No,Medium,71.0,Rarely,High,9.8,Low,No,No
+475,74,Male,103.6,Normal,26.7,Yes,No,Medium,76.0,Rarely,High,3.7,High,No,No
+476,46,Male,113.8,Normal,27.4,No,No,Low,81.0,Rarely,Moderate,9.8,High,Yes,No
+477,58,Female,103.4,Very High,27.4,No,No,Low,85.0,Rarely,None,3.4,High,No,Yes
+478,54,Female,116.8,High,83.2,No,No,Medium,90.0,Weekly,None,5.1,Low,No,Yes
+479,96,Male,115.4,Very High,33.0,No,No,Medium,73.0,Daily,None,,Medium,No,No
+480,66,Female,131.7,Normal,26.6,No,No,Low,71.0,Weekly,None,7.4,Medium,Yes,No
+481,48,Male,,Normal,21.4,Yes,No,High,56.0,Weekly,None,7.0,Medium,Yes,Yes
+482,35,Male,140.9,High,25.0,No,No,Low,95.0,Weekly,None,8.2,Low,No,No
+483,25,Male,111.6,Normal,27.9,No,Yes,Low,79.0,Daily,Low,,Low,No,No
+484,53,Female,116.9,Normal,33.1,Yes,No,Low,83.0,Never,None,8.8,High,Yes,No
+485,38,Female,94.7,Normal,30.0,Yes,Yes,Low,81.0,Weekly,Low,5.6,Low,No,Yes
+486,28,Male,107.9,Normal,22.7,Yes,Yes,Low,75.0,Daily,High,8.9,Medium,Yes,No
+487,40,Male,134.5,Normal,39.4,Yes,No,High,79.0,Daily,Low,7.0,Medium,No,No
+488,33,Male,144.2,Normal,,No,No,Low,69.0,Daily,Moderate,10.5,Medium,No,No
+489,75,Male,101.5,High,33.4,No,No,Low,72.0,Daily,Moderate,8.3,Medium,No,Yes
+490,63,Male,111.1,Normal,26.2,Yes,No,Low,65.0,Rarely,None,6.5,Medium,No,Yes
+491,49,Female,119.6,Normal,29.7,No,No,Medium,91.0,Weekly,None,6.9,Medium,No,Yes
+492,72,Male,124.2,Very High,31.2,No,No,High,81.0,Never,None,5.5,Medium,No,No
+493,51,Female,107.9,Normal,33.1,No,No,Low,95.0,Weekly,None,7.5,Medium,No,Yes
+494,37,Male,126.4,Normal,32.3,No,No,Low,98.0,Weekly,Low,6.5,Medium,No,No
+495,72,Female,112.9,Very High,31.4,Yes,No,Low,61.0,Weekly,High,,Medium,Yes,Yes
+496,58,Female,119.8,Normal,25.4,No,Yes,Low,85.0,Daily,High,5.0,Medium,No,Yes
+497,34,Female,128.2,Normal,24.1,No,Yes,Low,,Weekly,None,6.5,Medium,Yes,Yes
+498,47,Female,120.1,Normal,28.7,Yes,No,Low,77.0,Weekly,High,5.3,Low,Yes,No
+499,36,Female,113.5,Normal,31.7,Yes,No,Low,78.0,Rarely,None,,Medium,No,No
+500,29,Female,118.4,High,25.9,Yes,Yes,Medium,62.0,Daily,Moderate,7.9,Low,No,No
+501,63,Male,118.7,Very High,32.3,Yes,No,Low,68.0,Rarely,None,8.7,High,Yes,No
+502,78,Female,114.4,Normal,34.3,No,No,High,79.0,Rarely,None,3.5,High,No,Yes
+503,29,Male,116.1,High,22.4,No,No,High,77.0,Rarely,None,9.8,Low,No,No
+504,58,Female,144.0,High,22.8,No,No,Medium,65.0,Weekly,Moderate,9.1,Low,Yes,No
+505,40,Female,128.4,Normal,26.3,No,No,Low,68.0,Rarely,None,5.0,Medium,No,No
+506,42,Male,115.6,High,28.5,No,No,Low,60.0,Daily,None,8.2,High,Yes,Yes
+507,41,Female,130.5,Normal,24.4,No,No,Low,63.0,Daily,High,6.3,Medium,No,No
+508,37,Male,115.0,Normal,33.8,No,No,Medium,71.0,Daily,High,6.9,Medium,No,Yes
+509,50,Male,137.6,Normal,29.1,Yes,No,Low,85.0,Never,None,7.9,Medium,Yes,Yes
+510,37,Male,125.5,Normal,27.2,No,No,High,86.0,Daily,Moderate,7.7,Low,No,Yes
+511,54,Male,118.4,Normal,19.8,No,Yes,High,93.0,Daily,None,6.1,Medium,No,Yes
+512,49,Female,126.7,Very High,20.4,Yes,No,Low,79.0,Daily,None,6.1,Low,No,No
+513,46,Female,96.4,Normal,28.4,No,No,Medium,77.0,Weekly,Low,6.2,Medium,No,No
+514,36,Male,103.1,Normal,16.3,No,No,Low,80.0,Daily,Low,8.7,Low,No,No
+515,41,Female,102.1,Normal,32.1,No,No,Low,80.0,Rarely,Low,4.2,Medium,Yes,Yes
+516,61,Female,122.1,High,26.2,No,Yes,Low,59.0,Daily,Low,6.8,High,Yes,Yes
+517,57,Male,146.0,High,43.2,No,No,Low,,Never,Low,9.4,Medium,No,No
+518,35,Female,153.5,High,38.5,No,No,High,56.0,Weekly,Moderate,8.1,Medium,No,No
+519,51,Male,,High,26.1,No,No,Low,86.0,Daily,Moderate,8.6,Low,Yes,Yes
+520,61,Male,127.5,Very High,26.5,No,Yes,Low,76.0,Weekly,Low,,Medium,No,No
+521,24,Female,93.0,Normal,32.0,No,No,Medium,64.0,Rarely,None,5.3,Low,Yes,Yes
+522,58,Female,111.9,High,35.5,No,No,Medium,80.0,Daily,Low,7.1,Medium,Yes,No
+523,40,Female,108.2,Very High,18.8,No,Yes,Low,74.0,Daily,Moderate,6.0,Low,Yes,Yes
+524,58,Male,110.7,Very High,18.1,No,No,High,68.0,Rarely,Low,10.3,Low,No,Yes
+525,38,Male,117.5,Very High,23.9,No,No,Medium,61.0,Daily,Low,6.8,Low,No,Yes
+526,22,Female,112.9,Normal,29.9,Yes,Yes,Low,60.0,Weekly,None,8.0,Medium,Yes,Yes
+527,25,Female,90.3,Normal,29.5,Yes,Yes,Low,69.0,Weekly,Low,9.6,Medium,No,Yes
+528,50,Female,131.2,Normal,32.3,Yes,Yes,Low,71.0,Rarely,None,5.4,Medium,Yes,No
+529,53,Female,103.9,High,21.0,No,No,High,63.0,Never,High,3.6,Low,No,Yes
+530,36,Male,123.6,Normal,15.4,Yes,Yes,Medium,75.0,Rarely,Low,7.7,Medium,Yes,Yes
+531,59,Female,151.1,Normal,31.3,Yes,No,High,64.0,Never,None,,Medium,No,Yes
+532,25,Male,106.2,Very High,22.9,No,No,Low,79.0,Daily,Low,6.4,Medium,No,No
+533,49,Male,82.0,Normal,16.9,No,No,Low,87.0,Weekly,Moderate,5.3,High,No,No
+534,31,Female,115.7,Very High,27.7,No,Yes,Low,78.0,Daily,None,7.5,Medium,Yes,No
+535,40,Female,136.5,Normal,31.0,Yes,No,Low,74.0,Daily,Low,7.0,Low,Yes,No
+536,50,Female,149.4,Normal,26.4,No,No,Medium,70.0,Rarely,Low,7.5,Medium,No,Yes
+537,37,Male,101.6,Normal,24.7,No,No,Medium,89.0,Daily,Moderate,5.3,High,No,Yes
+538,44,Female,127.5,High,,No,No,Low,73.0,Daily,None,7.5,Medium,No,No
+539,65,Female,113.0,Normal,25.1,No,Yes,Low,100.0,Weekly,Low,8.2,High,No,No
+540,41,Male,118.4,Normal,20.3,No,No,Low,63.0,Rarely,High,4.7,Medium,No,No
+541,62,Female,159.7,Very High,23.4,Yes,No,Low,78.0,Daily,High,9.2,Medium,No,No
+542,33,Male,97.5,Normal,29.6,Yes,No,Low,89.0,Daily,Low,,Medium,Yes,No
+543,57,Female,123.8,High,28.6,Yes,No,Low,68.0,Daily,High,8.3,Medium,Yes,No
+544,71,Male,127.0,High,27.8,No,No,Low,73.0,Never,Low,5.1,Medium,No,Yes
+545,12,Female,136.3,Normal,22.0,No,Yes,Low,,Rarely,Low,8.0,Medium,No,Yes
+546,38,Female,121.5,High,26.1,No,No,Low,79.0,Weekly,Low,4.5,Medium,No,No
+547,58,Male,124.6,Normal,16.1,Yes,No,Low,81.0,Weekly,None,5.6,Medium,Yes,Yes
+548,46,Male,114.1,High,27.9,No,Yes,Medium,87.0,Never,Low,7.4,Low,No,No
+549,55,Female,124.0,Normal,34.1,No,No,Low,72.0,Weekly,Low,6.6,Medium,No,No
+550,40,Male,114.9,High,19.6,No,No,High,89.0,Weekly,Moderate,7.0,Medium,No,No
+551,51,Male,,Normal,24.1,No,No,Low,58.0,Daily,Moderate,9.9,High,Yes,Yes
+552,47,Male,114.5,High,28.6,Yes,Yes,Low,86.0,Weekly,Low,7.0,Medium,No,No
+553,67,Male,125.7,Normal,33.3,No,No,Low,86.0,Weekly,None,,Low,Yes,No
+554,53,Female,119.6,Normal,24.8,No,No,Low,67.0,Daily,None,6.9,Low,No,No
+555,55,Female,136.9,Normal,23.5,Yes,No,High,,Daily,None,6.9,Medium,No,Yes
+556,43,Male,119.2,Normal,17.2,Yes,Yes,Low,73.0,Rarely,Low,5.5,Low,Yes,Yes
+557,42,Male,93.4,Very High,27.5,No,No,High,79.0,Rarely,None,7.6,High,Yes,No
+558,43,Male,138.9,Normal,37.2,No,No,High,72.0,Daily,Low,10.8,Low,No,Yes
+559,55,Male,106.4,Very High,28.4,No,No,Medium,80.0,Weekly,None,7.1,High,No,No
+560,43,Female,110.2,Very High,26.9,Yes,No,Medium,,Daily,Moderate,6.6,Medium,Yes,No
+561,54,Female,111.1,High,28.6,No,Yes,Medium,61.0,Weekly,Moderate,8.7,High,No,Yes
+562,81,Male,140.6,Normal,26.9,No,Yes,Low,55.0,Rarely,Low,8.5,Low,No,No
+563,63,Male,88.0,Normal,22.9,No,No,Medium,,Weekly,None,7.7,Medium,Yes,Yes
+564,45,Male,167.1,High,31.1,No,No,Low,68.0,Weekly,Low,6.5,Low,No,No
+565,68,Female,135.8,Normal,28.1,Yes,No,Low,70.0,Weekly,None,8.7,Low,Yes,Yes
+566,43,Male,123.3,Normal,27.1,No,No,Low,88.0,Never,None,,Medium,Yes,Yes
+567,19,Female,119.2,High,22.1,No,No,Medium,74.0,Daily,None,,Medium,No,Yes
+568,34,Male,124.3,Very High,33.5,No,No,High,75.0,Weekly,None,5.8,Low,Yes,No
+569,21,Female,127.8,High,30.3,No,No,Low,71.0,Weekly,None,6.1,High,No,Yes
+570,44,Male,129.7,Normal,24.2,No,No,High,,Daily,None,7.1,Low,No,Yes
+571,50,Female,128.3,High,32.0,No,No,Low,78.0,Weekly,None,5.1,Medium,No,No
+572,75,Male,121.3,Normal,24.5,No,No,Low,103.0,Daily,Low,6.4,Low,Yes,Yes
+573,54,Male,117.0,Normal,23.1,No,Yes,Low,78.0,Daily,High,5.1,Medium,Yes,No
+574,46,Male,117.7,Very High,23.2,No,No,Low,,Weekly,Moderate,4.7,Low,No,No
+575,62,Female,117.1,Normal,18.1,No,No,Low,77.0,Weekly,None,,High,No,No
+576,16,Male,137.0,Normal,29.4,No,No,Medium,55.0,Daily,Low,6.1,Medium,No,Yes
+577,53,Female,128.9,Normal,17.8,No,No,High,69.0,Rarely,Moderate,6.2,High,No,Yes
+578,61,Female,75.9,Very High,,Yes,No,Low,78.0,Never,None,7.1,Low,Yes,No
+579,27,Male,129.8,High,16.6,No,No,Low,82.0,Daily,Moderate,5.4,Medium,No,No
+580,67,Male,122.9,High,26.6,Yes,No,High,77.0,Daily,Low,6.2,Medium,No,Yes
+581,55,Male,119.7,High,26.2,No,No,Medium,84.0,Daily,High,9.8,High,No,No
+582,43,Female,114.2,Normal,25.4,No,Yes,Low,60.0,Never,Moderate,7.5,Medium,Yes,No
+583,59,Male,136.9,Normal,21.8,No,No,Low,75.0,Rarely,Low,8.5,High,No,Yes
+584,84,Female,134.2,Normal,21.1,No,No,High,88.0,Rarely,Low,9.4,Low,Yes,No
+585,52,Female,108.4,Normal,29.3,No,No,Medium,65.0,Weekly,None,7.3,Medium,No,Yes
+586,53,Male,126.1,Normal,24.2,No,Yes,Low,86.0,Weekly,None,6.7,Medium,Yes,No
+587,43,Male,105.4,Very High,28.6,Yes,Yes,Low,86.0,Weekly,Low,4.8,Low,No,No
+588,37,Male,99.3,Normal,22.6,No,No,High,63.0,Never,None,6.4,Medium,No,Yes
+589,62,Male,110.6,Normal,27.9,Yes,No,Low,78.0,Weekly,None,6.8,High,No,No
+590,37,Male,,Normal,33.5,No,Yes,High,77.0,Weekly,None,5.8,High,No,No
+591,51,Male,134.3,Normal,29.9,No,No,Low,73.0,Rarely,Moderate,9.3,Medium,Yes,No
+592,42,Female,127.7,Very High,24.9,No,No,Medium,60.0,Daily,None,8.7,High,No,Yes
+593,57,Female,130.9,Normal,28.3,Yes,No,Low,72.0,Rarely,None,8.5,Medium,No,No
+594,55,Female,127.7,Normal,,Yes,No,Low,73.0,Daily,Low,6.8,Medium,No,No
+595,65,Male,110.4,High,27.0,No,No,High,58.0,Daily,Low,5.5,Low,No,Yes
+596,42,Female,126.5,Normal,25.4,No,No,Low,62.0,Weekly,None,9.0,Medium,No,Yes
+597,45,Female,132.0,Normal,26.2,No,No,Medium,66.0,Rarely,High,7.5,Low,No,No
+598,35,Female,131.3,Normal,28.1,No,No,Low,65.0,Weekly,Low,8.2,Low,Yes,No
+599,43,Female,137.8,High,22.0,No,No,Low,78.0,Daily,Low,7.9,Medium,No,Yes
+600,55,Female,130.6,Very High,21.9,Yes,Yes,Low,84.0,Rarely,None,7.5,High,Yes,No
+601,61,Male,256.9,High,20.1,No,No,Medium,72.0,Daily,Low,10.0,Medium,Yes,No
+602,36,Male,136.1,Normal,19.0,No,No,Low,83.0,Daily,Moderate,6.0,High,Yes,Yes
+603,63,Female,119.6,Very High,20.9,Yes,No,Low,85.0,Daily,None,6.5,High,Yes,Yes
+604,70,Female,106.8,Normal,27.8,No,No,Low,74.0,Weekly,None,9.5,Low,No,No
+605,56,Female,117.6,Normal,22.5,Yes,No,Medium,79.0,Daily,None,7.1,Medium,Yes,No
+606,78,Male,108.8,Normal,29.6,No,Yes,Medium,73.0,Daily,High,,Medium,Yes,No
+607,38,Male,109.9,Normal,27.2,Yes,No,Low,64.0,Weekly,None,6.6,High,No,Yes
+608,31,Female,117.8,High,17.2,No,No,Low,68.0,Rarely,Moderate,,High,No,No
+609,23,Male,108.1,High,30.3,Yes,No,High,78.0,Rarely,None,6.7,Medium,No,No
+610,72,Male,115.4,Very High,31.1,No,Yes,Low,74.0,Rarely,Low,6.5,Medium,No,No
+611,59,Female,91.6,High,22.0,No,No,High,82.0,Daily,Low,8.0,Medium,Yes,Yes
+612,49,Male,123.2,High,29.1,No,No,High,56.0,Weekly,None,7.1,Low,Yes,No
+613,54,Male,,Normal,22.7,No,No,Medium,59.0,Daily,Low,5.5,Low,Yes,Yes
+614,33,Female,107.7,Normal,27.5,No,No,Low,60.0,Daily,None,7.0,Medium,No,Yes
+615,86,Male,129.9,High,20.7,Yes,No,High,77.0,Weekly,None,,High,No,Yes
+616,51,Male,134.1,Normal,18.0,No,Yes,Medium,61.0,Weekly,Moderate,8.1,High,Yes,Yes
+617,51,Female,95.9,Very High,25.1,Yes,No,Medium,78.0,Never,None,9.3,Medium,Yes,No
+618,60,Male,108.6,Normal,26.4,No,Yes,Low,,Daily,Low,5.9,Medium,No,Yes
+619,57,Male,108.5,Normal,25.0,No,No,Low,90.0,Weekly,None,8.6,High,Yes,No
+620,53,Female,105.9,Normal,21.1,No,No,Low,89.0,Weekly,None,6.0,Medium,No,No
+621,38,Female,132.4,Normal,25.0,No,No,Medium,68.0,Never,Low,5.2,Medium,No,No
+622,57,Female,117.1,Normal,28.3,Yes,No,Medium,58.0,Daily,Low,5.8,Medium,No,No
+623,78,Male,116.0,High,26.8,Yes,No,Low,69.0,Daily,None,7.2,Medium,No,No
+624,70,Female,89.9,Normal,27.9,Yes,No,Low,85.0,Weekly,Low,8.5,Medium,Yes,No
+625,73,Male,129.5,High,,No,No,Low,71.0,Weekly,None,7.5,Medium,No,No
+626,42,Female,101.4,Normal,32.9,Yes,No,Medium,75.0,Daily,Moderate,6.8,High,No,No
+627,35,Male,120.9,Normal,21.1,Yes,No,High,69.0,Rarely,None,5.5,Low,No,No
+628,48,Female,124.2,Normal,29.4,No,Yes,Low,91.0,Rarely,None,8.1,Medium,No,No
+629,50,Female,140.4,Very High,32.9,No,No,Low,65.0,Weekly,Moderate,8.4,Medium,No,No
+630,66,Female,,Normal,29.4,No,No,Low,76.0,Rarely,None,7.4,Low,No,No
+631,24,Female,74.7,High,26.0,No,Yes,Medium,,Weekly,None,5.4,High,Yes,Yes
+632,72,Male,122.8,Normal,24.4,Yes,No,Medium,93.0,Weekly,None,,Low,Yes,Yes
+633,47,Female,147.0,High,32.2,No,No,High,68.0,Weekly,Moderate,8.8,Medium,Yes,No
+634,43,Female,138.6,Normal,19.9,No,Yes,Low,85.0,Rarely,High,9.3,High,No,Yes
+635,34,Male,123.1,High,22.1,Yes,No,High,69.0,Weekly,Moderate,6.3,Low,No,No
+636,25,Female,112.6,High,25.0,Yes,No,Low,,Weekly,Low,7.7,High,Yes,Yes
+637,62,Male,132.1,Very High,33.2,No,No,Medium,92.0,Weekly,Low,6.2,Medium,Yes,No
+638,51,Female,105.4,Normal,28.9,No,Yes,Low,66.0,Weekly,Low,5.6,Low,No,No
+639,30,Female,127.1,Normal,22.2,Yes,No,High,82.0,Daily,None,9.4,High,Yes,Yes
+640,30,Female,127.6,Normal,25.4,No,No,Medium,86.0,Rarely,High,7.8,Low,Yes,No
+641,44,Male,135.9,Very High,23.9,No,No,Medium,72.0,Daily,None,8.9,Medium,Yes,No
+642,75,Female,161.4,High,23.5,No,No,High,80.0,Rarely,None,5.2,Low,Yes,No
+643,46,Female,125.9,High,31.9,No,No,Low,81.0,Weekly,Moderate,7.4,Low,No,No
+644,27,Female,,Normal,20.1,No,No,Low,95.0,Weekly,Moderate,7.8,High,No,Yes
+645,46,Male,119.6,Normal,35.0,No,No,High,55.0,Weekly,None,5.8,Medium,No,No
+646,45,Male,93.5,Normal,31.1,No,No,Low,74.0,Daily,None,9.2,Low,No,Yes
+647,9,Female,109.6,Very High,32.5,No,No,Low,62.0,Weekly,Low,6.6,Medium,Yes,Yes
+648,49,Male,113.9,High,24.7,No,No,Low,75.0,Weekly,Low,7.7,Medium,Yes,No
+649,46,Female,112.1,Very High,26.3,No,No,Medium,67.0,Daily,Low,6.2,High,No,No
+650,60,Female,122.3,Normal,19.8,No,Yes,Low,72.0,Rarely,None,5.2,Medium,No,No
+651,77,Female,107.7,High,24.4,No,No,Low,66.0,Rarely,High,8.4,High,Yes,No
+652,66,Female,136.8,High,29.5,Yes,No,Low,77.0,Never,None,7.6,Medium,Yes,Yes
+653,45,Female,120.0,Normal,33.5,No,No,Low,,Rarely,Low,7.4,Medium,Yes,No
+654,33,Female,119.9,Very High,21.5,No,No,High,71.0,Weekly,Low,6.6,High,No,No
+655,88,Female,115.1,Very High,25.2,No,Yes,High,89.0,Weekly,None,7.5,Low,Yes,Yes
+656,50,Male,122.3,Very High,26.2,Yes,No,Medium,85.0,Rarely,None,8.9,Low,No,No
+657,50,Male,132.4,High,20.0,No,Yes,Low,95.0,Never,High,6.0,Medium,Yes,No
+658,49,Male,107.0,Normal,30.0,No,No,High,79.0,Daily,Moderate,7.8,Low,No,Yes
+659,52,Male,,Normal,23.4,Yes,No,Medium,74.0,Daily,None,7.3,Low,Yes,No
+660,47,Male,115.4,Very High,26.0,No,No,Low,59.0,Daily,Moderate,,Medium,No,No
+661,41,Male,99.8,Normal,24.7,Yes,No,High,67.0,Daily,None,4.5,Medium,Yes,Yes
+662,41,Male,107.7,High,23.1,Yes,No,Medium,73.0,Daily,Low,7.0,Medium,Yes,No
+663,49,Female,112.9,High,27.0,No,No,Medium,74.0,Daily,None,8.0,Medium,No,No
+664,41,Female,133.1,High,25.9,No,Yes,Medium,98.0,Weekly,Moderate,7.5,Low,No,No
+665,39,Female,,Very High,25.1,No,Yes,Low,73.0,Rarely,None,4.8,Medium,No,No
+666,51,Female,122.9,Normal,23.4,Yes,No,Low,57.0,Weekly,Low,8.9,Medium,No,No
+667,46,Male,132.8,Normal,28.6,No,No,Medium,82.0,Never,Moderate,9.5,Low,Yes,No
+668,72,Male,117.9,Normal,35.3,Yes,No,Low,,Daily,None,6.8,High,No,Yes
+669,10,Female,125.9,Normal,27.7,Yes,No,Low,70.0,Weekly,Low,10.5,Medium,Yes,No
+670,66,Female,118.5,Normal,32.0,Yes,No,Medium,96.0,Weekly,None,5.8,High,Yes,Yes
+671,68,Male,124.0,Normal,20.0,No,No,Medium,56.0,Never,Low,5.1,Low,No,No
+672,18,Female,111.3,Very High,27.8,No,No,Low,87.0,Weekly,None,5.5,Medium,No,No
+673,44,Female,83.4,Very High,21.5,No,Yes,Medium,72.0,Weekly,Low,7.4,Medium,No,Yes
+674,44,Female,118.0,Normal,19.6,No,Yes,High,65.0,Rarely,High,4.3,High,No,No
+675,28,Female,141.3,Normal,23.3,Yes,No,Medium,99.0,Weekly,None,6.5,Medium,No,No
+676,38,Male,133.9,Very High,,No,No,Low,82.0,Never,None,11.4,High,Yes,Yes
+677,33,Female,134.5,Normal,31.8,No,No,Low,72.0,Weekly,Low,4.7,Medium,No,Yes
+678,76,Female,138.5,Normal,28.2,No,Yes,Low,72.0,Weekly,Moderate,6.2,Medium,No,No
+679,64,Male,121.3,Normal,19.3,Yes,No,Low,78.0,Daily,High,5.4,High,No,Yes
+680,69,Male,123.0,High,26.0,No,No,Low,70.0,Weekly,None,6.6,Medium,No,No
+681,60,Female,110.7,Normal,28.5,No,No,Low,88.0,Weekly,None,6.5,Medium,No,No
+682,33,Male,115.3,Very High,27.9,No,No,Low,76.0,Daily,Moderate,6.0,Low,No,No
+683,42,Female,129.2,Normal,17.8,No,No,High,85.0,Weekly,Moderate,6.8,High,Yes,Yes
+684,57,Female,138.1,High,22.5,Yes,No,Low,77.0,Weekly,Low,7.9,Medium,No,No
+685,31,Male,117.9,Normal,26.7,No,Yes,Medium,84.0,Weekly,None,9.1,Medium,Yes,Yes
+686,60,Female,,Normal,29.7,Yes,Yes,Medium,88.0,Daily,None,6.6,Low,Yes,No
+687,46,Female,120.0,High,16.0,No,No,Low,92.0,Weekly,None,7.0,Medium,Yes,Yes
+688,44,Female,129.0,High,26.2,No,No,High,80.0,Weekly,High,7.7,Medium,Yes,No
+689,60,Female,98.3,High,27.7,Yes,No,Medium,66.0,Daily,None,5.1,Medium,Yes,No
+690,56,Male,85.6,High,31.2,No,No,Low,73.0,Never,Low,6.8,Medium,Yes,No
+691,44,Male,111.7,Very High,30.5,No,No,Medium,75.0,Daily,Low,6.2,Low,No,Yes
+692,67,Female,101.7,Very High,29.9,Yes,Yes,Low,69.0,Weekly,None,8.4,Medium,No,Yes
+693,33,Male,112.4,High,23.0,No,No,Medium,68.0,Weekly,None,9.6,Medium,Yes,No
+694,59,Female,117.8,Normal,17.5,Yes,No,Low,77.0,Daily,Low,5.8,Low,Yes,Yes
+695,58,Female,113.2,Normal,25.0,No,No,High,65.0,Rarely,None,8.9,Medium,No,No
+696,45,Female,141.8,Normal,32.0,No,No,Low,63.0,Daily,None,4.8,Medium,Yes,No
+697,54,Female,124.9,High,34.0,No,No,Medium,58.0,Daily,None,7.3,High,Yes,No
+698,31,Female,124.5,Normal,30.6,No,Yes,Low,80.0,Weekly,Moderate,7.4,Low,Yes,No
+699,63,Male,129.3,Normal,29.1,No,No,Medium,78.0,Daily,High,4.8,Low,Yes,Yes
+700,47,Female,102.9,Very High,28.9,No,No,Medium,72.0,Never,Low,5.8,Medium,No,No
+701,42,Male,135.6,Very High,24.2,Yes,No,Low,85.0,Daily,Moderate,5.6,Medium,Yes,Yes
+702,65,Male,118.9,Very High,26.3,No,Yes,Medium,65.0,Weekly,Low,5.0,Low,No,Yes
+703,39,Female,130.1,Normal,35.3,No,No,Low,79.0,Weekly,Low,3.0,High,Yes,Yes
+704,28,Female,103.9,High,22.3,Yes,No,High,76.0,Rarely,High,6.7,Medium,No,No
+705,26,Female,96.7,Normal,35.1,No,No,Low,68.0,Weekly,Low,,Medium,No,No
+706,59,Female,132.3,Normal,25.4,No,No,High,70.0,Rarely,None,6.9,Medium,Yes,No
+707,30,Female,125.6,Normal,33.6,No,No,High,69.0,Daily,High,8.1,High,Yes,Yes
+708,76,Male,106.5,Normal,20.0,Yes,No,Low,,Daily,Moderate,4.1,Low,Yes,No
+709,18,Female,107.0,Normal,29.9,Yes,No,Low,81.0,Rarely,None,6.4,Low,No,No
+710,75,Female,136.9,Very High,23.3,Yes,No,Low,71.0,Rarely,High,10.8,Low,Yes,Yes
+711,53,Male,102.2,Normal,19.9,No,Yes,High,68.0,Daily,None,8.3,Medium,No,Yes
+712,48,Male,144.6,High,28.1,Yes,No,Low,76.0,Weekly,None,8.3,High,Yes,No
+713,41,Female,106.5,High,32.0,No,No,Medium,58.0,Rarely,Low,5.5,Medium,Yes,No
+714,55,Male,,Normal,22.8,Yes,Yes,High,75.0,Weekly,None,6.7,Low,Yes,Yes
+715,49,Female,115.1,Normal,19.5,No,No,Low,91.0,Weekly,Low,3.6,Low,Yes,No
+716,66,Male,129.0,Normal,26.5,No,No,Medium,68.0,Rarely,None,7.9,Medium,Yes,Yes
+717,51,Male,111.8,High,26.6,No,No,Low,73.0,Daily,None,9.1,Low,Yes,No
+718,52,Female,117.6,Normal,29.7,Yes,No,Low,85.0,Weekly,Low,4.8,High,No,Yes
+719,44,Male,120.6,Normal,31.7,No,No,Medium,83.0,Never,Low,5.3,Low,Yes,Yes
+720,49,Male,105.0,Normal,26.7,Yes,No,Low,76.0,Daily,None,7.0,Low,No,No
+721,54,Male,131.1,High,36.3,No,No,Low,74.0,Weekly,High,7.2,Low,No,No
+722,24,Male,112.3,Very High,28.1,No,No,High,63.0,Rarely,Low,6.2,High,No,No
+723,29,Male,116.6,Normal,25.3,Yes,No,Low,80.0,Rarely,None,5.8,Medium,No,No
+724,61,Male,105.1,High,18.9,No,No,High,62.0,Rarely,None,5.8,High,Yes,No
+725,52,Female,81.6,High,25.7,No,No,High,54.0,Weekly,Moderate,6.9,Medium,Yes,No
+726,47,Female,117.1,Very High,25.3,Yes,No,Low,85.0,Rarely,Low,7.9,Low,No,No
+727,50,Male,156.2,Very High,31.8,No,No,Low,79.0,Weekly,None,6.9,Medium,No,No
+728,55,Female,131.8,High,29.3,Yes,Yes,Medium,84.0,Rarely,None,6.8,Medium,No,No
+729,41,Female,119.7,High,21.1,No,No,Low,,Weekly,Low,4.4,Medium,Yes,No
+730,38,Female,116.1,Very High,27.9,No,No,Low,80.0,Daily,None,8.3,Medium,No,Yes
+731,52,Male,120.3,Normal,30.4,Yes,No,Medium,71.0,Weekly,Low,6.9,Low,No,No
+732,35,Female,128.2,Normal,34.6,No,Yes,Low,72.0,Weekly,High,6.3,Low,Yes,Yes
+733,56,Male,102.3,Normal,31.4,No,No,High,85.0,Daily,None,7.4,Medium,No,No
+734,24,Female,136.7,Very High,30.8,No,No,Low,74.0,Weekly,Moderate,5.7,Medium,Yes,Yes
+735,65,Male,130.7,Very High,27.3,No,No,Low,68.0,Weekly,High,6.4,High,Yes,Yes
+736,57,Male,130.8,Normal,28.9,No,No,Low,61.0,Weekly,High,7.2,Medium,Yes,Yes
+737,53,Female,126.6,High,33.2,No,No,High,79.0,Daily,High,6.0,High,No,No
+738,64,Female,120.3,Normal,20.3,No,No,Medium,86.0,Rarely,Moderate,4.5,Medium,No,Yes
+739,74,Male,130.1,Normal,25.3,No,No,High,67.0,Weekly,Low,4.3,Low,No,No
+740,65,Female,128.9,Very High,23.1,No,Yes,Low,82.0,Weekly,Low,7.7,High,No,No
+741,22,Female,114.7,Normal,28.9,No,No,Low,66.0,Weekly,Low,7.0,Medium,Yes,Yes
+742,30,Female,111.4,Normal,33.2,No,No,Low,82.0,Daily,Moderate,6.9,Medium,Yes,No
+743,40,Male,121.5,High,24.0,No,No,Low,75.0,Weekly,None,5.3,Medium,Yes,Yes
+744,50,Male,143.2,High,15.0,No,No,Medium,78.0,Rarely,None,,Medium,No,No
+745,57,Female,101.4,Normal,,No,No,Medium,68.0,Daily,None,6.4,Medium,Yes,No
+746,39,Female,98.0,High,31.6,No,No,Low,79.0,Never,Moderate,6.1,High,No,Yes
+747,52,Female,122.5,High,29.7,No,No,High,,Never,Moderate,6.9,Medium,Yes,Yes
+748,38,Male,120.8,Normal,29.1,No,No,Low,71.0,Weekly,Low,7.4,Medium,Yes,No
+749,40,Male,122.6,Normal,25.6,Yes,Yes,High,60.0,Daily,None,9.6,Medium,Yes,No
+750,28,Female,123.7,High,,No,No,Low,67.0,Daily,Low,7.8,Low,Yes,Yes
+751,36,Female,116.7,Normal,29.6,No,Yes,Low,70.0,Daily,None,8.3,Medium,No,Yes
+752,29,Female,142.3,Very High,22.8,No,No,Low,78.0,Rarely,Low,8.7,Low,No,No
+753,35,Female,96.0,Very High,37.9,Yes,Yes,Low,81.0,Weekly,None,5.9,Medium,No,Yes
+754,65,Female,107.6,Very High,29.9,Yes,Yes,Medium,69.0,Rarely,High,6.5,High,No,No
+755,35,Female,118.5,Normal,24.1,No,No,Low,73.0,Daily,Low,5.6,Medium,No,No
+756,89,Male,95.4,Very High,,No,No,Low,92.0,Weekly,Low,6.0,Low,No,Yes
+757,57,Female,117.4,Normal,26.5,Yes,No,Medium,76.0,Never,Moderate,6.4,Medium,No,No
+758,52,Male,144.9,Normal,25.8,No,Yes,Medium,70.0,Daily,Low,5.9,High,No,No
+759,37,Female,120.3,Normal,32.6,No,No,High,58.0,Weekly,None,7.3,Medium,Yes,No
+760,60,Female,123.5,Normal,27.9,Yes,Yes,Low,66.0,Weekly,Low,7.6,High,No,No
+761,41,Male,101.1,High,23.3,No,No,Medium,66.0,Daily,High,5.0,Medium,No,No
+762,51,Male,110.8,Normal,36.5,No,No,Medium,95.0,Rarely,Low,6.5,Low,Yes,No
+763,88,Male,114.4,Normal,27.2,No,No,Low,67.0,Rarely,Low,6.5,Low,No,Yes
+764,48,Male,115.2,High,30.8,No,No,Low,76.0,Rarely,High,,Medium,No,No
+765,67,Female,139.2,Normal,24.0,No,No,Low,79.0,Weekly,Moderate,5.9,Medium,No,No
+766,39,Male,128.4,High,28.8,No,No,Low,86.0,Rarely,Low,8.3,High,No,Yes
+767,49,Female,103.3,Normal,28.6,No,No,Low,75.0,Weekly,Moderate,8.3,Medium,Yes,No
+768,76,Male,123.7,Very High,17.6,Yes,No,Low,,Rarely,High,4.6,Medium,No,No
+769,40,Female,127.5,Very High,37.1,Yes,No,Medium,69.0,Daily,High,7.7,Low,Yes,No
+770,196,Female,137.1,Normal,33.5,No,Yes,Medium,79.0,Rarely,High,4.8,Medium,No,Yes
+771,60,Female,143.7,Normal,25.0,No,No,High,68.0,Rarely,Low,6.4,Low,No,No
+772,41,Female,104.8,Normal,21.5,Yes,No,Medium,64.0,Rarely,None,6.9,Medium,No,No
+773,59,Female,107.8,Very High,28.7,No,No,Low,70.0,Daily,None,8.1,Low,Yes,No
+774,64,Female,101.1,Normal,27.4,Yes,Yes,High,62.0,Weekly,None,6.7,Low,Yes,No
+775,59,Male,116.5,Normal,28.8,No,Yes,High,94.0,Daily,High,5.5,Low,No,No
+776,26,Female,127.0,Normal,,No,No,Low,81.0,Daily,Moderate,5.2,Low,No,No
+777,39,Male,134.8,Normal,29.5,No,No,Medium,91.0,Daily,Low,,Medium,No,Yes
+778,46,Male,118.9,Normal,34.2,No,Yes,High,80.0,Daily,Low,6.0,Low,No,No
+779,48,Female,115.2,Very High,29.8,Yes,No,Medium,90.0,Never,None,6.4,High,No,Yes
+780,59,Male,122.3,Normal,21.8,No,No,High,79.0,Daily,Low,8.5,Medium,Yes,No
+781,52,Female,107.5,Normal,33.8,Yes,No,Low,82.0,Daily,Moderate,7.7,Medium,No,No
+782,29,Male,151.3,Very High,35.2,No,Yes,Low,54.0,Daily,Low,9.4,Medium,No,Yes
+783,55,Female,95.9,Very High,,Yes,No,Low,66.0,Rarely,None,5.5,Medium,Yes,No
+784,59,Male,122.8,Normal,21.4,No,No,Medium,75.0,Weekly,Low,5.9,Low,Yes,No
+785,58,Female,150.4,Normal,28.2,No,Yes,High,76.0,Rarely,None,7.3,High,No,Yes
+786,66,Female,120.1,Normal,16.6,No,No,High,74.0,Rarely,High,9.7,Medium,No,Yes
+787,62,Female,117.1,Very High,29.8,No,No,Low,80.0,Daily,None,5.8,Low,Yes,Yes
+788,56,Female,114.6,Normal,24.3,No,No,Low,80.0,Daily,High,7.1,Medium,Yes,Yes
+789,48,Male,117.3,Very High,36.6,Yes,No,High,84.0,Weekly,None,9.0,Medium,Yes,No
+790,25,Female,140.6,High,23.1,Yes,Yes,Medium,82.0,Daily,None,7.1,Low,Yes,No
+791,56,Male,,High,18.6,No,Yes,Low,87.0,Never,Low,8.5,High,No,Yes
+792,53,Male,143.0,Normal,24.6,Yes,No,Low,87.0,Never,Moderate,9.9,Low,No,No
+793,54,Male,98.6,Normal,17.1,Yes,No,Medium,77.0,Weekly,Low,7.4,Medium,No,No
+794,30,Female,116.0,Normal,30.8,No,No,Medium,96.0,Weekly,None,7.7,High,No,No
+795,33,Male,113.6,Normal,16.7,No,No,Low,89.0,Daily,None,8.1,Low,Yes,Yes
+796,65,Male,128.8,High,27.1,No,No,Low,67.0,Weekly,Low,,Low,No,No
+797,49,Male,96.0,Very High,16.6,No,No,High,79.0,Weekly,None,4.8,Low,No,No
+798,60,Female,126.9,High,25.4,No,Yes,Medium,57.0,Weekly,None,7.2,Low,No,No
+799,50,Female,,High,35.2,Yes,No,Low,58.0,Rarely,Low,6.1,Low,No,No
+800,50,Male,99.6,Normal,28.8,No,No,Low,70.0,Daily,None,8.6,High,No,Yes
+801,64,Female,122.8,Normal,22.7,No,No,Medium,66.0,Weekly,None,7.5,High,No,No
+802,42,Female,110.1,Normal,26.8,No,Yes,Low,70.0,Weekly,None,8.6,Medium,Yes,No
+803,51,Male,126.4,High,27.1,Yes,No,Low,78.0,Daily,High,5.2,Medium,Yes,No
+804,43,Male,120.3,Very High,29.4,No,No,Medium,87.0,Weekly,None,8.5,High,No,No
+805,43,Female,110.4,High,20.2,Yes,No,Low,87.0,Daily,High,3.6,Medium,No,No
+806,196,Male,127.3,Normal,30.0,Yes,Yes,Medium,79.0,Rarely,None,5.3,Medium,No,No
+807,53,Female,147.1,Normal,13.5,Yes,No,Low,64.0,Rarely,Moderate,7.9,Medium,Yes,No
+808,42,Female,117.1,High,23.9,No,No,Medium,69.0,Daily,None,6.2,Low,Yes,Yes
+809,68,Female,130.8,Normal,24.6,No,No,Low,81.0,Daily,Low,6.4,High,No,No
+810,36,Female,100.6,Very High,30.2,No,No,Low,67.0,Weekly,Moderate,7.2,Medium,No,No
+811,47,Female,105.7,Very High,27.1,No,Yes,Low,62.0,Weekly,Moderate,9.1,Medium,Yes,No
+812,43,Female,256.9,High,20.0,No,No,High,80.0,Daily,Moderate,4.1,Medium,No,No
+813,71,Male,142.3,Normal,22.1,Yes,No,High,75.0,Rarely,Moderate,8.9,Medium,No,No
+814,52,Male,125.3,Normal,28.0,Yes,No,Low,73.0,Never,None,9.0,Low,Yes,No
+815,65,Female,115.3,Normal,26.6,No,No,Medium,86.0,Weekly,Low,6.2,Medium,No,No
+816,27,Female,120.0,Normal,24.1,No,No,Medium,86.0,Rarely,Low,6.0,High,Yes,Yes
+817,54,Female,101.2,Normal,24.6,No,No,High,,Rarely,Moderate,6.8,Low,No,Yes
+818,63,Male,129.1,High,30.5,Yes,Yes,Low,68.0,Daily,None,5.9,High,No,Yes
+819,51,Female,133.2,High,24.4,Yes,No,Medium,79.0,Never,High,7.5,Medium,Yes,No
+820,65,Male,113.2,Normal,26.6,Yes,No,Low,75.0,Daily,Low,7.7,Low,No,Yes
+821,42,Female,112.9,Normal,37.8,No,No,Low,78.0,Weekly,Low,4.7,Medium,No,Yes
+822,71,Female,124.0,Normal,19.9,No,No,High,,Weekly,None,5.6,High,No,Yes
+823,84,Male,113.4,Normal,17.7,No,No,Medium,61.0,Weekly,Low,5.2,Medium,No,Yes
+824,44,Male,119.0,Very High,30.9,No,Yes,Low,75.0,Weekly,Moderate,7.3,Medium,No,No
+825,43,Female,151.5,Normal,23.6,No,No,Low,67.0,Rarely,Low,,Medium,Yes,No
+826,71,Female,116.3,Normal,83.2,No,Yes,Medium,84.0,Rarely,High,5.4,Medium,Yes,Yes
+827,73,Female,256.9,Normal,23.1,Yes,No,Medium,60.0,Daily,Moderate,8.3,Low,No,No
+828,42,Male,110.3,Very High,25.7,No,No,Low,61.0,Rarely,Low,5.6,Low,Yes,No
+829,43,Male,131.2,High,35.0,No,No,High,71.0,Never,Moderate,8.1,Low,No,No
+830,45,Male,117.3,Normal,31.0,Yes,No,Low,60.0,Daily,Low,6.6,Low,No,No
+831,29,Male,110.3,High,31.3,No,No,Low,92.0,Daily,Low,6.3,Low,No,No
+832,36,Male,139.8,High,19.9,No,No,High,73.0,Weekly,None,8.7,Medium,No,Yes
+833,34,Male,141.3,Very High,21.2,No,No,Low,69.0,Never,None,9.7,Medium,Yes,No
+834,38,Female,111.0,Normal,12.8,No,No,Low,80.0,Daily,Low,4.1,Low,No,No
+835,49,Female,92.0,Very High,23.0,No,No,Medium,84.0,Daily,Moderate,7.9,Low,No,Yes
+836,53,Male,135.1,Very High,31.8,No,Yes,High,77.0,Rarely,None,,Low,Yes,Yes
+837,73,Female,109.7,Very High,29.6,Yes,No,Low,74.0,Rarely,None,,Medium,Yes,No
+838,35,Female,131.9,High,25.9,Yes,No,High,65.0,Daily,Low,,Low,No,No
+839,64,Male,90.4,High,26.9,Yes,No,Medium,81.0,Daily,None,5.4,Medium,Yes,No
+840,46,Female,133.4,Normal,23.6,Yes,No,Low,89.0,Daily,Moderate,6.0,Medium,No,No
+841,49,Male,101.8,High,28.0,No,No,Medium,73.0,Rarely,Moderate,,Medium,No,No
+842,60,Male,131.0,High,30.8,No,No,Low,,Weekly,None,5.9,Medium,No,Yes
+843,33,Female,120.2,High,18.9,Yes,No,Low,77.0,Weekly,Moderate,6.5,Low,No,No
+844,55,Male,105.7,Normal,28.5,No,No,Medium,75.0,Rarely,Low,8.2,Low,Yes,No
+845,52,Male,113.9,High,31.7,Yes,No,High,63.0,Rarely,Low,10.1,Low,No,No
+846,57,Male,130.3,Very High,24.9,No,No,Low,70.0,Rarely,None,,Low,No,Yes
+847,196,Male,121.6,Normal,30.5,Yes,No,Low,93.0,Weekly,Low,8.3,Low,Yes,Yes
+848,86,Male,128.8,Very High,41.1,No,No,Low,62.0,Weekly,Moderate,6.7,Medium,No,No
+849,40,Male,149.6,High,26.5,Yes,No,Low,68.0,Daily,None,5.7,Low,No,No
+850,42,Male,96.5,Very High,29.0,No,Yes,Low,,Daily,None,6.5,High,Yes,No
+851,40,Male,144.3,Normal,23.3,No,No,Low,66.0,Daily,None,6.9,Low,No,No
+852,41,Female,121.6,Normal,27.9,No,No,Medium,71.0,Daily,None,5.3,Medium,No,No
+853,40,Female,106.5,Very High,29.3,Yes,No,Low,79.0,Rarely,None,8.2,Medium,No,No
+854,67,Female,100.0,Normal,,Yes,No,Low,88.0,Weekly,None,9.3,Medium,Yes,Yes
+855,71,Male,117.2,Very High,21.9,Yes,No,High,77.0,Weekly,High,7.2,Medium,No,No
+856,41,Male,133.8,Normal,28.0,No,No,High,68.0,Never,Moderate,8.6,Medium,No,No
+857,37,Female,118.1,High,34.3,Yes,No,Low,90.0,Daily,None,8.8,High,No,Yes
+858,57,Female,142.7,Normal,29.2,No,No,Low,54.0,Never,Moderate,5.4,Medium,No,No
+859,41,Female,98.2,High,,No,Yes,Medium,82.0,Weekly,None,4.4,Low,No,No
+860,59,Male,119.8,Normal,,No,No,Low,65.0,Weekly,Low,6.3,Medium,Yes,No
+861,53,Female,101.2,Normal,30.7,No,No,Low,74.0,Weekly,None,7.1,Low,No,No
+862,27,Female,125.5,Normal,28.4,Yes,No,Medium,81.0,Weekly,None,5.2,High,Yes,No
+863,73,Male,133.3,Normal,22.2,Yes,No,Low,59.0,Weekly,Moderate,9.1,Medium,Yes,No
+864,76,Female,113.7,Very High,28.6,No,No,Low,76.0,Rarely,None,9.9,Low,Yes,No
+865,40,Male,80.9,Very High,22.0,No,No,Low,77.0,Rarely,Moderate,7.3,Low,No,Yes
+866,44,Male,123.0,Normal,23.8,Yes,No,Low,90.0,Daily,Low,5.5,Low,No,No
+867,54,Male,126.6,High,27.9,Yes,No,Low,102.0,Rarely,None,7.7,High,Yes,No
+868,55,Female,126.1,Normal,28.5,No,No,High,59.0,Rarely,Moderate,5.5,High,Yes,No
+869,59,Female,,High,,Yes,No,Low,89.0,Weekly,Low,8.7,Low,Yes,No
+870,80,Male,103.9,Very High,32.3,No,No,Low,75.0,Rarely,None,6.7,Medium,No,Yes
+871,47,Female,130.2,Very High,29.9,No,No,Low,67.0,Weekly,None,8.1,High,No,Yes
+872,38,Female,137.9,Normal,23.5,Yes,No,High,79.0,Weekly,None,8.4,Low,No,No
+873,29,Female,93.3,High,19.3,Yes,No,Medium,62.0,Daily,High,7.8,Low,No,No
+874,39,Female,124.8,Normal,26.3,Yes,No,Low,63.0,Daily,Low,9.7,Medium,No,No
+875,49,Male,112.4,Very High,24.8,No,No,High,58.0,Rarely,None,7.3,Low,Yes,No
+876,76,Female,118.8,Normal,27.6,No,No,Low,80.0,Weekly,Moderate,6.2,Low,Yes,No
+877,196,Male,125.2,High,25.2,No,No,Low,78.0,Never,None,3.8,High,Yes,No
+878,53,Male,112.7,High,17.0,No,Yes,Low,67.0,Never,None,3.6,Medium,No,Yes
+879,49,Female,109.9,High,25.1,No,No,Low,90.0,Weekly,None,8.0,Medium,No,No
+880,67,Male,120.5,Normal,25.5,Yes,No,Low,68.0,Rarely,Low,6.7,Medium,Yes,No
+881,87,Female,,Very High,30.2,Yes,Yes,Medium,88.0,Weekly,None,5.8,Medium,Yes,No
+882,42,Female,103.7,Normal,23.5,No,No,Low,76.0,Daily,Low,5.3,Medium,No,No
+883,42,Male,130.2,High,35.4,Yes,No,Medium,68.0,Daily,Moderate,8.1,Low,Yes,Yes
+884,65,Male,102.8,Normal,17.4,Yes,No,Low,74.0,Daily,None,5.5,Low,Yes,No
+885,60,Male,130.0,Normal,33.6,No,No,Low,62.0,Never,None,9.4,Medium,No,Yes
+886,77,Male,126.9,High,25.9,No,Yes,Low,77.0,Weekly,None,10.5,Low,No,Yes
+887,58,Female,94.1,Normal,31.3,No,No,High,75.0,Rarely,Low,5.6,Low,No,No
+888,44,Female,109.8,Normal,27.4,No,Yes,Low,80.0,Weekly,High,8.0,Medium,No,Yes
+889,58,Female,137.9,Normal,32.7,Yes,No,Medium,84.0,Rarely,None,7.7,Low,No,No
+890,66,Male,105.3,Normal,25.1,No,Yes,Low,76.0,Never,None,5.5,High,Yes,Yes
+891,62,Male,113.0,High,21.5,Yes,No,Low,60.0,Weekly,None,5.5,Medium,No,Yes
+892,57,Male,126.9,Very High,34.1,No,No,Low,84.0,Daily,None,6.8,Low,No,Yes
+893,66,Female,131.8,Normal,,No,No,Low,75.0,Daily,Low,5.3,Low,No,Yes
+894,67,Male,116.2,Normal,28.1,Yes,No,Low,56.0,Weekly,None,8.6,Medium,No,No
+895,70,Female,111.0,Normal,33.2,No,No,Low,78.0,Weekly,None,6.6,Medium,Yes,No
+896,59,Male,,Normal,21.8,Yes,Yes,Medium,79.0,Weekly,Low,5.3,Medium,No,No
+897,47,Female,,High,30.0,No,No,Low,71.0,Weekly,None,6.9,Medium,Yes,Yes
+898,52,Female,134.7,High,24.1,No,No,Medium,73.0,Never,Low,7.7,Medium,Yes,No
+899,68,Male,121.3,Normal,26.3,No,Yes,Low,69.0,Daily,None,5.9,High,No,No
+900,37,Male,107.9,Normal,27.4,No,No,Medium,79.0,Weekly,High,4.0,Medium,No,Yes
+901,55,Female,107.5,Normal,19.5,Yes,No,Medium,76.0,Rarely,None,7.2,Medium,No,No
+902,44,Female,127.8,Very High,23.1,No,No,Low,66.0,Never,High,5.2,Medium,No,No
+903,50,Male,126.3,Very High,33.8,No,No,Low,91.0,Rarely,None,5.8,High,No,No
+904,69,Male,141.0,Normal,83.2,Yes,No,Medium,68.0,Weekly,Moderate,7.7,Medium,No,No
+905,52,Female,,Normal,26.7,No,No,High,48.0,Daily,None,6.1,Medium,No,No
+906,50,Male,97.5,Very High,28.2,No,No,Low,70.0,Weekly,Low,6.8,Medium,Yes,Yes
+907,29,Female,135.8,Very High,25.5,Yes,Yes,Low,85.0,Weekly,None,9.2,Medium,No,No
+908,61,Female,105.0,Normal,33.8,No,No,High,73.0,Daily,Low,6.5,Low,No,No
+909,59,Male,114.2,Normal,26.0,Yes,No,Low,59.0,Rarely,Low,10.0,Medium,Yes,No
+910,82,Male,123.8,Normal,28.2,No,No,Medium,65.0,Rarely,Low,8.1,Low,No,No
+911,45,Male,149.9,High,32.7,Yes,No,Low,64.0,Weekly,Low,5.6,Low,No,No
+912,53,Male,166.6,Normal,23.1,No,Yes,Low,69.0,Daily,None,6.3,High,No,No
+913,53,Male,129.1,Normal,,No,No,Medium,72.0,Weekly,None,5.1,Medium,No,No
+914,73,Female,117.3,High,19.3,No,No,Medium,80.0,Weekly,Low,8.0,Low,Yes,Yes
+915,48,Female,128.0,Normal,35.1,No,Yes,Low,76.0,Daily,None,9.0,Low,No,No
+916,54,Male,133.3,High,25.1,No,No,Low,77.0,Daily,None,6.5,Medium,No,No
+917,196,Male,115.2,Normal,25.8,No,Yes,Medium,,Never,None,4.2,Medium,Yes,No
+918,52,Male,146.9,Normal,17.5,Yes,No,Medium,84.0,Daily,None,7.5,Low,No,No
+919,43,Female,,High,24.7,No,No,Low,83.0,Never,Low,5.7,Low,Yes,No
+920,52,Male,127.5,Normal,21.8,No,No,Medium,57.0,Weekly,Low,5.9,Low,No,No
+921,66,Male,130.0,Very High,24.0,No,No,Medium,67.0,Rarely,High,7.5,Low,No,No
+922,34,Female,126.3,High,26.3,No,No,Medium,59.0,Weekly,None,8.8,Low,No,No
+923,51,Female,132.6,Normal,31.8,No,No,Medium,67.0,Weekly,High,8.1,Medium,No,No
+924,39,Male,256.9,High,28.0,No,No,Low,83.0,Daily,Low,7.6,Low,No,Yes
+925,67,Male,111.6,Normal,28.5,No,No,Medium,71.0,Weekly,High,6.8,Low,Yes,No
+926,27,Male,103.5,Very High,21.5,Yes,No,Medium,86.0,Weekly,Moderate,5.0,High,No,No
+927,41,Female,126.6,Normal,22.6,No,Yes,Low,82.0,Rarely,Low,7.5,High,Yes,No
+928,55,Male,131.7,High,36.0,No,No,Low,76.0,Daily,None,8.1,Low,Yes,No
+929,73,Male,126.9,Normal,23.3,No,No,Low,86.0,Daily,None,6.1,Low,No,Yes
+930,49,Male,145.1,Normal,35.3,No,Yes,Medium,89.0,Rarely,None,6.5,Medium,No,No
+931,41,Female,119.9,Very High,25.8,Yes,No,Low,80.0,Daily,High,8.7,Medium,Yes,No
+932,78,Female,130.0,Very High,27.0,No,No,Medium,77.0,Weekly,High,6.4,High,Yes,No
+933,28,Male,103.6,Normal,32.4,No,Yes,High,81.0,Weekly,Moderate,6.6,Medium,No,Yes
+934,17,Male,114.2,Normal,33.4,Yes,No,Medium,61.0,Daily,Moderate,6.9,Medium,Yes,No
+935,56,Female,130.4,Very High,26.4,No,No,High,74.0,Never,High,8.0,High,Yes,Yes
+936,42,Female,132.7,Very High,25.1,Yes,No,High,,Daily,Low,7.4,Medium,Yes,No
+937,34,Female,256.9,Normal,26.7,No,No,Low,71.0,Weekly,Low,7.3,Low,Yes,No
+938,60,Female,118.9,Normal,,Yes,No,Medium,67.0,Rarely,Low,9.3,Medium,No,Yes
+939,196,Female,256.9,Normal,31.5,No,No,Low,85.0,Daily,Low,6.4,Low,No,No
+940,41,Female,114.6,Very High,27.0,No,No,High,77.0,Daily,None,5.6,Low,No,No
+941,30,Female,133.4,Normal,,No,Yes,Low,78.0,Never,Low,8.5,Medium,Yes,No
+942,63,Female,,Normal,35.2,No,Yes,High,89.0,Rarely,Low,7.3,Low,Yes,No
+943,59,Female,127.5,High,28.9,No,No,Medium,73.0,Daily,Low,6.1,Low,Yes,Yes
+944,48,Male,120.7,Normal,28.6,Yes,No,Medium,71.0,Never,Moderate,6.5,High,Yes,Yes
+945,77,Male,120.1,Normal,19.4,Yes,No,Low,,Daily,None,5.1,Medium,Yes,No
+946,33,Male,110.1,Normal,13.8,No,Yes,Low,60.0,Daily,None,7.3,Low,Yes,No
+947,27,Female,130.5,Normal,28.9,Yes,No,Medium,76.0,Weekly,Moderate,4.8,Low,Yes,No
+948,39,Male,126.3,Normal,26.5,No,Yes,Low,68.0,Weekly,Low,8.0,Low,No,Yes
+949,49,Female,127.4,High,24.4,No,No,High,78.0,Weekly,None,,Low,Yes,No
+950,53,Female,112.1,Normal,,No,Yes,Low,81.0,Weekly,Low,4.9,High,Yes,No
+951,46,Male,87.7,High,26.7,No,Yes,Medium,81.0,Daily,Low,8.6,Low,Yes,No
+952,55,Female,136.5,Very High,32.6,Yes,No,Low,,Daily,High,10.4,Medium,Yes,Yes
+953,31,Male,,High,27.4,No,No,Medium,72.0,Weekly,Low,7.7,Low,No,No
+954,71,Male,107.1,Normal,23.3,No,No,Medium,73.0,Weekly,None,,High,Yes,Yes
+955,48,Male,130.4,Normal,32.0,No,No,Low,80.0,Rarely,Low,5.6,Medium,Yes,No
+956,66,Female,114.1,Normal,25.9,No,No,Low,84.0,Weekly,Moderate,7.4,High,Yes,No
+957,55,Male,135.9,Normal,,Yes,No,Low,62.0,Weekly,Low,8.0,Medium,Yes,No
+958,56,Female,129.3,Normal,24.6,No,Yes,Medium,78.0,Weekly,Moderate,7.0,High,No,No
+959,58,Male,130.3,High,23.8,No,No,Medium,71.0,Never,None,8.3,High,No,No
+960,56,Male,,Normal,27.4,No,No,Medium,76.0,Daily,Moderate,9.3,Medium,Yes,No
+961,59,Male,138.2,Normal,27.1,Yes,No,Medium,71.0,Weekly,Moderate,5.1,Low,No,Yes
+962,69,Female,123.9,Normal,,No,Yes,Low,68.0,Daily,Moderate,7.4,Low,Yes,No
+963,52,Female,114.5,High,25.7,No,No,Low,65.0,Daily,None,4.1,Low,Yes,No
+964,60,Female,122.2,Normal,17.8,Yes,No,Low,,Weekly,Moderate,5.8,Low,Yes,No
+965,48,Male,93.4,High,24.8,No,No,Low,79.0,Weekly,Low,8.1,Medium,No,No
+966,71,Male,126.1,Normal,31.0,No,Yes,High,69.0,Weekly,Moderate,6.9,Medium,Yes,No
+967,39,Female,104.6,Very High,25.5,No,Yes,High,87.0,Never,None,4.6,Medium,No,No
+968,77,Female,99.7,Very High,,No,No,Low,100.0,Daily,None,8.6,Low,No,Yes
+969,49,Female,97.2,Normal,31.9,Yes,No,Medium,79.0,Never,None,6.2,Low,Yes,No
+970,28,Female,136.7,Normal,23.4,No,No,High,75.0,Weekly,Low,8.3,Low,No,Yes
+971,51,Female,110.6,Normal,19.3,No,No,Low,66.0,Rarely,Low,7.8,Medium,No,No
+972,39,Female,143.0,Normal,26.2,No,No,Low,,Daily,Low,5.8,Medium,No,No
+973,62,Male,112.0,High,24.6,No,No,Low,90.0,Weekly,Low,8.3,Low,No,No
+974,40,Female,,Very High,22.2,No,No,Medium,94.0,Weekly,Moderate,7.5,Medium,Yes,No
+975,43,Male,103.3,High,26.1,Yes,No,High,89.0,Weekly,None,7.3,Medium,Yes,No
+976,21,Male,138.5,Very High,29.5,No,Yes,Medium,83.0,Daily,None,6.3,High,Yes,Yes
+977,43,Female,117.7,Normal,27.0,No,Yes,Low,79.0,Rarely,Moderate,5.3,Low,No,No
+978,13,Female,111.8,Normal,28.5,No,No,Low,65.0,Weekly,Low,6.4,Medium,No,No
+979,26,Male,122.4,High,36.1,No,Yes,Medium,,Weekly,Low,6.3,Low,No,Yes
+980,61,Female,127.5,Normal,25.3,No,No,High,73.0,Never,Low,8.3,Medium,No,Yes
+981,61,Female,136.8,High,28.4,No,Yes,Medium,74.0,Rarely,Low,4.5,Medium,Yes,No
+982,56,Male,141.7,Normal,,Yes,No,Medium,68.0,Rarely,None,9.2,Medium,No,No
+983,35,Male,114.6,Normal,22.8,No,No,Low,83.0,Never,Low,9.3,Low,No,No
+984,49,Male,100.1,Very High,24.1,No,No,High,72.0,Weekly,High,6.0,Low,No,Yes
+985,196,Female,113.8,Normal,24.6,No,Yes,Medium,71.0,Never,Low,9.1,Medium,No,Yes
+986,32,Male,123.9,Very High,28.8,No,No,Low,68.0,Weekly,None,5.5,Medium,No,No
+987,72,Female,105.5,Very High,38.7,No,No,Medium,77.0,Rarely,Moderate,8.7,Medium,No,No
+988,63,Male,105.6,High,23.4,No,No,Low,90.0,Rarely,None,5.8,High,No,No
+989,46,Male,125.2,High,24.9,No,Yes,Low,75.0,Daily,None,8.6,Medium,No,No
+990,50,Male,119.3,High,26.7,No,No,Low,78.0,Weekly,Moderate,4.8,Medium,Yes,No
+991,53,Female,120.5,Very High,29.0,No,No,Low,94.0,Rarely,None,8.6,Medium,No,No
+992,19,Female,108.6,Normal,28.3,No,No,Low,87.0,Weekly,High,8.9,High,Yes,Yes
+993,46,Male,116.5,Normal,33.4,No,No,Low,81.0,Rarely,Low,4.8,Medium,No,No
+994,39,Male,106.1,High,14.9,No,Yes,Medium,80.0,Never,Moderate,9.6,Low,Yes,Yes
+995,34,Male,133.4,Normal,15.1,No,No,Low,69.0,Never,Low,8.5,Medium,No,Yes
+996,45,Female,135.5,Normal,24.5,No,No,Low,,Daily,None,4.0,High,No,Yes
+997,76,Male,92.3,Normal,32.5,No,No,Low,76.0,Daily,Low,6.3,Low,Yes,Yes
+998,59,Female,106.1,High,19.2,Yes,No,Medium,77.0,Daily,High,8.6,Medium,Yes,No
+999,41,Male,97.6,Very High,12.0,Yes,Yes,Low,67.0,Daily,Moderate,8.1,High,No,Yes
+1000,58,Male,110.2,Normal,29.9,No,No,Low,82.0,Daily,Low,7.2,Medium,No,Yes
